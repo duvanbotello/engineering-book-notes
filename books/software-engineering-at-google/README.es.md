@@ -2,46 +2,46 @@
 
 ## Metadatos
 
-- Titulo: Software Engineering at Google
+- Título: Software Engineering at Google
 - Autor: Titus Winters, Tom Manshreck y Hyrum Wright
 - Estado: leyendo
-- Idioma: Espanol
+- Idioma: Español
 
-## Navegacion
+## Navegación
 
-- Version en ingles: [README.md](README.md)
-- Volver al indice del repositorio: [../../README.es.md](../../README.es.md)
+- Versión en inglés: [README.md](README.md)
+- Volver al índice del repositorio: [../../README.es.md](../../README.es.md)
 
 ## Temas principales
 
-- Gestion del tiempo y del cambio en bases de codigo grandes
-- Escala, complejidad y diseno organizacional
-- Cultura, politicas y practicas de ingenieria
+- Gestión del tiempo y del cambio en bases de código grandes
+- Escala, complejidad y diseño organizacional
+- Cultura, políticas y prácticas de ingeniería
 
-## Por que importa este libro
+## Por qué importa este libro
 
-Este libro conecta decisiones de ingenieria con mantenibilidad de largo plazo y efectividad de equipo. Ayuda a convertir habitos de programacion aislados en sistemas de ingenieria sostenibles.
+Este libro conecta decisiones de ingeniería con mantenibilidad de largo plazo y efectividad de equipo. Ayuda a convertir hábitos de programación aislados en sistemas de ingeniería sostenibles.
 
-## Capitulos
+## Capítulos
 
-- [01 - Introduccion](chapters/ES/01-introduction.es.md) | [EN](chapters/EN/01-introduction.md)
+- [01 - Introducción](chapters/ES/01-introduction.es.md) | [EN](chapters/EN/01-introduction.md)
 - [05 - Liderazgo de equipo](chapters/ES/05-team-leadership.es.md) | [EN](chapters/EN/05-team-leadership.md)
 
 ## Aprendizajes clave
 
-- La ingenieria de software sostenible es sociotecnica, no solo tecnica.
-- Las compensaciones son inevitables y deben hacerse explicitas.
-- Las buenas practicas escalan cuando se documentan, se ensenan y se miden.
+- La ingeniería de software sostenible es sociotécnica, no solo técnica.
+- Las compensaciones son inevitables y deben hacerse explícitas.
+- Las buenas prácticas escalan cuando se documentan, se enseñan y se miden.
 
 ## Ideas favoritas
 
 - Optimizar mantenibilidad por encima de velocidad local.
 - Integrar aprendizaje organizacional en flujos de trabajo diarios.
 
-## Aplicaciones practicas
+## Aplicaciones prácticas
 
-- Agregar registros de decisiones para arquitectura y deuda tecnica.
-- Definir listas de verificacion por capitulo para convertir conceptos en habitos de equipo.
+- Agregar registros de decisiones para arquitectura y deuda técnica.
+- Definir listas de verificación por capítulo para convertir conceptos en hábitos de equipo.
 
 ## Libros relacionados
 
@@ -51,7 +51,7 @@ Este libro conecta decisiones de ingenieria con mantenibilidad de largo plazo y 
 
 ## Reflexiones personales
 
-Uso este libro como marco para tomar decisiones de ingenieria que sigan siendo utiles con crecimiento, rotacion y cambios de producto.
+Uso este libro como marco para tomar decisiones de ingeniería que sigan siendo útiles con crecimiento, rotación y cambios de producto.
 
 ## Aviso legal
 

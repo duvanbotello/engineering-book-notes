@@ -2,15 +2,15 @@
 
 ## Metadatos
 
-- Titulo: <titulo-del-libro>
+- Título: <titulo-del-libro>
 - Autor: <nombre-del-autor>
 - Estado: <por-leer | leyendo | terminado>
-- Idioma: Espanol
+- Idioma: Español
 
-## Navegacion
+## Navegación
 
-- Version en ingles: [README.md](README.md)
-- Volver al indice del repositorio: [../../README.es.md](../../README.es.md)
+- Versión en inglés: [README.md](README.md)
+- Volver al índice del repositorio: [../../README.es.md](../../README.es.md)
 
 ## Temas principales
 
@@ -18,11 +18,11 @@
 - <tema-2>
 - <tema-3>
 
-## Por que importa este libro
+## Por qué importa este libro
 
-<Explica por que este libro es relevante para tu crecimiento como ingeniero.>
+<Explica por qué este libro es relevante para tu crecimiento como ingeniero.>
 
-## Capitulos
+## Capítulos
 
 - [01 - <titulo-del-capitulo>](chapters/ES/01-<titulo-del-capitulo>.es.md) | [EN](chapters/EN/01-<titulo-del-capitulo>.md)
 
@@ -37,7 +37,7 @@
 - <idea-1>
 - <idea-2>
 
-## Aplicaciones practicas
+## Aplicaciones prácticas
 
 - <aplicacion-1>
 - <aplicacion-2>
@@ -49,7 +49,7 @@
 
 ## Reflexiones personales
 
-<Escribe tus reflexiones despues de leer y aplicar las ideas.>
+<Escribe tus reflexiones después de leer y aplicar las ideas.>
 
 ## Aviso legal
 

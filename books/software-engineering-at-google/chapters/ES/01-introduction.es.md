@@ -1,59 +1,59 @@
-[← Volver al libro](../../README.es.md) | [↑ Volver al indice](../../../../README.es.md) | [🌐 Cambiar idioma](../EN/01-introduction.md)
+[← Volver al libro](../../README.es.md) | [↑ Volver al índice](../../../../README.es.md) | [🌐 Cambiar idioma](../EN/01-introduction.md)
 
-# 01 - Introduccion
+# 01 - Introducción
 
 ## Idea central
 
-La ingenieria de software es programacion integrada con tiempo, escala y colaboracion humana. El capitulo presenta la calidad de ingenieria como un resultado de largo plazo que depende del codigo y de los habitos organizacionales.
+La ingeniería de software es programación integrada con tiempo, escala y colaboración humana. El capítulo presenta la calidad de ingeniería como un resultado de largo plazo que depende del código y de los hábitos organizacionales.
 
 ## Conceptos clave
 
-- Programacion vs. ingenieria de software
+- Programación vs. ingeniería de software
 - Compensaciones en tiempo y escala
-- Sistemas sociotecnicos y mantenibilidad
+- Sistemas sociotécnicos y mantenibilidad
 
 ## Citas (solo breves)
 
-- "La ingenieria de software es programacion integrada a traves del tiempo."
+- "La ingeniería de software es programación integrada a través del tiempo."
 
-## Mi interpretacion
+## Mi interpretación
 
-El mensaje principal es que la correccion de hoy no alcanza. Una solucion util debe seguir siendo comprensible, adaptable y ensenable a medida que evolucionan los sistemas y los equipos.
+El mensaje principal es que la corrección de hoy no alcanza. Una solución útil debe seguir siendo comprensible, adaptable y enseñable a medida que evolucionan los sistemas y los equipos.
 
-## Lecciones practicas
+## Lecciones prácticas
 
-- Evaluar decisiones por costo de mantenimiento, no solo por velocidad de implementacion.
-- Registrar el razonamiento de los cambios para reducir ambiguedad futura.
-- Tratar practicas de equipo como parte de la arquitectura tecnica.
+- Evaluar decisiones por costo de mantenimiento, no solo por velocidad de implementación.
+- Registrar el razonamiento de los cambios para reducir ambigüedad futura.
+- Tratar prácticas de equipo como parte de la arquitectura técnica.
 
 ## Preguntas
 
-- Que decisiones actuales del equipo optimizan el corto plazo pero perjudican la adaptabilidad futura?
-- Donde debemos documentar compensaciones para que nuevos colaboradores entiendan el contexto con rapidez?
+- ¿Qué decisiones actuales del equipo optimizan el corto plazo pero perjudican la adaptabilidad futura?
+- ¿Dónde debemos documentar compensaciones para que nuevos colaboradores entiendan el contexto con rapidez?
 
 ## Acciones
 
 - [ ] Agregar una plantilla liviana de registro de decisiones en las notas del proyecto.
-- [ ] Agregar un item de lista de verificacion en revisiones para impacto en mantenibilidad de largo plazo.
+- [ ] Agregar un ítem de lista de verificación en revisiones para impacto en mantenibilidad de largo plazo.
 
 ## Notas relacionadas
 
 - Aprendizajes clave del libro: [Software Engineering at Google - Aprendizajes clave](../../README.es.md#aprendizajes-clave)
-- Aplicaciones practicas del libro: [Software Engineering at Google - Aplicaciones practicas](../../README.es.md#aplicaciones-practicas)
-- Formato reutilizable de capitulo: [Plantilla de capitulo](../../../../templates/chapter-template.es.md)
+- Aplicaciones prácticas del libro: [Software Engineering at Google - Aplicaciones prácticas](../../README.es.md#aplicaciones-prácticas)
+- Formato reutilizable de capítulo: [Plantilla de capítulo](../../../../templates/chapter-template.es.md)
 
-## Ver tambien
+## Ver también
 
 - Libros relacionados: [Software Engineering at Google - Libros relacionados](../../README.es.md#libros-relacionados)
-- Flujo y estructura del repositorio: [Dev Notes README en espanol](../../../../README.es.md)
+- Flujo y estructura del repositorio: [Dev Notes README en español](../../../../README.es.md)
 
 ---
 
-**Navegacion**
+**Navegación**
 
-- Capitulo anterior: Ninguno (inicio del libro)
-- Capitulo siguiente: Planificado
-- Notas relacionadas: [README del libro](../../README.es.md), [Capitulo en ingles](../EN/01-introduction.md)
+- Capítulo anterior: Ninguno (inicio del libro)
+- Capítulo siguiente: Planificado
+- Notas relacionadas: [README del libro](../../README.es.md), [Capítulo en inglés](../EN/01-introduction.md)
 
 ## Aviso legal
 

@@ -1,10 +1,10 @@
-[← Volver al libro](../../README.es.md) | [↑ Volver al indice](../../../../README.es.md) | [🌐 Cambiar idioma](../EN/<nombre-del-archivo>.md)
+[← Volver al libro](../../README.es.md) | [↑ Volver al índice](../../../../README.es.md) | [🌐 Cambiar idioma](../EN/<nombre-del-archivo>.md)
 
 # <numero-capitulo> - <titulo-del-capitulo>
 
 ## Idea central
 
-<Resume en un parrafo el mensaje principal del capitulo.>
+<Resume en un párrafo el mensaje principal del capítulo.>
 
 ## Conceptos clave
 
@@ -16,11 +16,11 @@
 
 - "<cita-breve>" - <contexto-fuente>
 
-## Mi interpretacion
+## Mi interpretación
 
 <Explica tu comprension con tus propias palabras.>
 
-## Lecciones practicas
+## Lecciones prácticas
 
 - <leccion-1>
 - <leccion-2>
@@ -37,17 +37,17 @@
 
 ## Notas relacionadas
 
-- <enlace a otro capitulo de este u otro libro>
-- <enlace a un indice de conceptos o glosario>
+- <enlace a otro capítulo de este u otro libro>
+- <enlace a un índice de conceptos o glosario>
 
-## Ver tambien
+## Ver también
 
 - <paper, charla o articulo externo>
 
 ---
 
-**Navegacion**
+**Navegación**
 
-- Capitulo anterior: <enlace-o-ninguno>
-- Capitulo siguiente: <enlace-o-ninguno>
+- Capítulo anterior: <enlace-o-ninguno>
+- Capítulo siguiente: <enlace-o-ninguno>
 - Notas relacionadas: <lista-de-enlaces>

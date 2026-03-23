@@ -1,26 +1,26 @@
 # Dev Notes
 
-> Base de conocimiento bilingue (espanol primero) para notas personales sobre libros de ingenieria de software.
+> Base de conocimiento bilingüe (español primero) para notas personales sobre libros de ingeniería de software.
 
-[![Idioma principal](https://img.shields.io/badge/Idioma-Espanol-1f6feb)](README.es.md)
-[![Traduccion](https://img.shields.io/badge/Translation-English-0e8a16)](README.md)
+[![Idioma principal](https://img.shields.io/badge/Idioma-Español-1f6feb)](README.es.md)
+[![Traducción](https://img.shields.io/badge/Translation-English-0e8a16)](README.md)
 [![Licencia](https://img.shields.io/badge/License-CC--BY--4.0-f9a825)](LICENSE)
 
 ## Portada
 
-### Accesos rapidos
+### Accesos rápidos
 
-- Ir a este archivo (README en espanol): [`README.es.md`](README.es.md)
-- Cambiar a ingles: [`README.md`](README.md)
+- Ir a este archivo (README en español): [`README.es.md`](README.es.md)
+- Cambiar a inglés: [`README.md`](README.md)
 - Ver libro de ejemplo (ES): [`books/software-engineering-at-google/README.es.md`](books/software-engineering-at-google/README.es.md)
 - Crear nuevas notas desde plantillas: [`templates/`](templates/)
 
-### Navegacion interactiva
+### Navegación interactiva
 
-- [Por que existe este repositorio](#por-que-existe-este-repositorio)
-- [Indice de libros](#indice-de-libros)
-- [Como navegar](#como-navegar)
-- [Como usar este repositorio](#como-usar-este-repositorio)
+- [Por qué existe este repositorio](#por-qué-existe-este-repositorio)
+- [Índice de libros](#índice-de-libros)
+- [Cómo navegar](#cómo-navegar)
+- [Cómo usar este repositorio](#cómo-usar-este-repositorio)
 - [Estructura del repositorio](#estructura-del-repositorio)
 - [Licencia](#licencia)
 - [Aviso legal](#aviso-legal)
@@ -28,43 +28,43 @@
 <details>
 <summary><strong>Flujo recomendado (abrir/cerrar)</strong></summary>
 
-1. Entra al libro desde el [Indice de libros](#indice-de-libros).
-2. Abre su README para ver la tabla de capitulos.
-3. En cada capitulo usa `← Volver al libro`, `↑ Volver al indice` y `🌐 Cambiar idioma`.
-4. Usa `Notas relacionadas` y `Ver tambien` para saltar entre conceptos.
+1. Entra al libro desde el [Índice de libros](#índice-de-libros).
+2. Abre su README para ver la tabla de capítulos.
+3. En cada capítulo usa `← Volver al libro`, `↑ Volver al índice` y `🌐 Cambiar idioma`.
+4. Usa `Notas relacionadas` y `Ver también` para saltar entre conceptos.
 
 </details>
 
-## Por que existe este repositorio
+## Por qué existe este repositorio
 
-Este repositorio existe para convertir notas de lectura en un manual practico de ingenieria:
+Este repositorio existe para convertir notas de lectura en un manual práctico de ingeniería:
 
 - Capturar reflexiones personales, aprendizajes e ideas accionables.
-- Mantener los conceptos faciles de encontrar por libro, capitulo y tema.
-- Compartir notas publicamente con una traduccion profesional al ingles.
-- Construir una referencia de largo plazo que siga siendo util con el tiempo.
+- Mantener los conceptos fáciles de encontrar por libro, capítulo y tema.
+- Compartir notas públicamente con una traducción profesional al inglés.
+- Construir una referencia de largo plazo que siga siendo útil con el tiempo.
 
-## Politica de idioma
+## Política de idioma
 
-- El espanol es la fuente de verdad.
-- El ingles es una traduccion limpia y profesional.
+- El español es la fuente de verdad.
+- El inglés es una traducción limpia y profesional.
 - Cada archivo usa un solo idioma.
 
-## Indice de libros
+## Índice de libros
 
 - `software-engineering-at-google`
-  - Ingles: [`books/software-engineering-at-google/README.md`](books/software-engineering-at-google/README.md)
-  - Espanol: [`books/software-engineering-at-google/README.es.md`](books/software-engineering-at-google/README.es.md)
+  - Inglés: [`books/software-engineering-at-google/README.md`](books/software-engineering-at-google/README.md)
+  - Español: [`books/software-engineering-at-google/README.es.md`](books/software-engineering-at-google/README.es.md)
 
-## Como se organizan las notas
+## Cómo se organizan las notas
 
 Las notas se organizan en tres niveles:
 
-1. Indice del repositorio (`README.md`, `README.es.md`)
-2. Indice por libro (`books/<book-name>/README*.md`)
-3. Notas por capitulo (`books/<book-name>/chapters/ES/*.es.md` y `books/<book-name>/chapters/EN/*.md`)
+1. Índice del repositorio (`README.md`, `README.es.md`)
+2. Índice por libro (`books/<book-name>/README*.md`)
+3. Notas por capítulo (`books/<book-name>/chapters/ES/*.es.md` y `books/<book-name>/chapters/EN/*.md`)
 
-Cada capitulo incluye navegacion superior e inferior, cambio de idioma y enlaces cruzados.
+Cada capítulo incluye navegación superior e inferior, cambio de idioma y enlaces cruzados.
 
 ## Estructura del repositorio
 
@@ -91,31 +91,31 @@ Cada capitulo incluye navegacion superior e inferior, cambio de idioma y enlaces
     └── chapter-template.md
 ```
 
-## Como navegar
+## Cómo navegar
 
-Usa esta ruta para navegar rapido:
+Usa esta ruta para navegar rápido:
 
-1. Empieza desde el indice de libros en este archivo.
-2. Abre el README de un libro para ver la tabla de contenidos por capitulos.
-3. Abre un capitulo y usa:
+1. Empieza desde el índice de libros en este archivo.
+2. Abre el README de un libro para ver la tabla de contenidos por capítulos.
+3. Abre un capítulo y usa:
    - `← Volver al libro`
-   - `↑ Volver al indice`
+   - `↑ Volver al índice`
    - `🌐 Cambiar idioma`
-4. Muevete entre capitulos desde la navegacion inferior:
-   - `Capitulo anterior`
-   - `Capitulo siguiente`
+4. Muévete entre capítulos desde la navegación inferior:
+   - `Capítulo anterior`
+   - `Capítulo siguiente`
    - `Notas relacionadas`
 
-## Como usar este repositorio
+## Cómo usar este repositorio
 
-- Usa las plantillas en `templates/` para agregar libros y capitulos.
-- Actualiza primero los archivos en espanol y despues traduce al ingles.
-- Agrega citas breves y acciones practicas.
-- Mantener enlaces cruzados entre conceptos relacionados.
+- Usa las plantillas en `templates/` para agregar libros y capítulos.
+- Actualiza primero los archivos en español y después traduce al inglés.
+- Agrega citas breves y acciones prácticas.
+- Mantén enlaces cruzados entre conceptos relacionados.
 
 ## Licencia
 
-Este proyecto esta licenciado bajo Creative Commons Attribution 4.0 International (CC BY 4.0).
+Este proyecto está licenciado bajo Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 Consulta [`LICENSE`](LICENSE).
 
