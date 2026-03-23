@@ -1,4 +1,4 @@
-[← Volver al libro](../README.es.md) | [↑ Volver al indice](../../../README.es.md) | [🌐 Cambiar idioma](chapter-template.md)
+[← Volver al libro](../../README.es.md) | [↑ Volver al indice](../../../../README.es.md) | [🌐 Cambiar idioma](../EN/<nombre-del-archivo>.md)
 
 # <numero-capitulo> - <titulo-del-capitulo>
 

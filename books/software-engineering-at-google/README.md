@@ -24,7 +24,8 @@ This book connects software engineering decisions with long-term maintainability
 
 ## Chapters
 
-- [01 - Introduction](chapters/01-introduction.md) | [ES](chapters/01-introduction.es.md)
+- [01 - Introduction](chapters/EN/01-introduction.md) | [ES](chapters/ES/01-introduction.es.md)
+- [05 - Team Leadership](chapters/EN/05-team-leadership.md) | [ES](chapters/ES/05-team-leadership.es.md)
 
 ## Key takeaways
 

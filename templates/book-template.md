@@ -24,7 +24,7 @@
 
 ## Chapters
 
-- [01 - <chapter-title>](chapters/01-<chapter-title>.md) | [ES](chapters/01-<chapter-title>.es.md)
+- [01 - <chapter-title>](chapters/EN/01-<chapter-title>.md) | [ES](chapters/ES/01-<chapter-title>.es.md)
 
 ## Key takeaways
 

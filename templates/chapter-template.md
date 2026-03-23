@@ -1,4 +1,4 @@
-[← Back to Book](../README.md) | [↑ Back to Index](../../../README.md) | [🌐 Switch Language](chapter-template.es.md)
+[← Back to Book](../../README.md) | [↑ Back to Index](../../../../README.md) | [🌐 Switch Language](../ES/<file-name>.es.md)
 
 # <chapter-number> - <chapter-title>
 

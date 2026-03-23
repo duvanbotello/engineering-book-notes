@@ -62,7 +62,7 @@ Las notas se organizan en tres niveles:
 
 1. Indice del repositorio (`README.md`, `README.es.md`)
 2. Indice por libro (`books/<book-name>/README*.md`)
-3. Notas por capitulo (`books/<book-name>/chapters/*.md`)
+3. Notas por capitulo (`books/<book-name>/chapters/ES/*.es.md` y `books/<book-name>/chapters/EN/*.md`)
 
 Cada capitulo incluye navegacion superior e inferior, cambio de idioma y enlaces cruzados.
 
@@ -78,8 +78,12 @@ Cada capitulo incluye navegacion superior e inferior, cambio de idioma y enlaces
 │       ├── README.es.md
 │       ├── README.md
 │       └── chapters/
-│           ├── 01-introduction.es.md
-│           └── 01-introduction.md
+│           ├── EN/
+│           │   ├── 01-introduction.md
+│           │   └── 05-team-leadership.md
+│           └── ES/
+│               ├── 01-introduction.es.md
+│               └── 05-team-leadership.es.md
 └── templates/
     ├── book-template.es.md
     ├── book-template.md

@@ -32,8 +32,10 @@ books/
     README.md
     README.es.md
     chapters/
-      01-chapter-name.md
-      01-chapter-name.es.md
+      EN/
+        01-chapter-name.md
+      ES/
+        01-chapter-name.es.md
 
 templates/
   book-template.md
@@ -47,6 +49,7 @@ templates/
 * Use **kebab-case** for folders and files
 * Each book has its own directory under `/books/`
 * Each chapter must be inside `/chapters/`
+* Chapter language files must be separated by folder: `/chapters/EN/` and `/chapters/ES/`
 * Chapter files must be numerically ordered (`01-`, `02-`, etc.)
 
 ---
@@ -60,6 +63,7 @@ templates/
 * `README.md` and `README.es.md` must always be synchronized in structure and meaning (language is the only difference)
 * All bilingual note pairs (`*.es.md` and `*.md`) must stay synchronized in content, sections, links, and updates
 * Any change in Spanish must be reflected in English in the same update cycle
+* All chapter links in book indexes must point to `/chapters/ES/...` and `/chapters/EN/...` accordingly
 
 ---
 
@@ -184,6 +188,7 @@ When the agent receives notes:
 When creating new content:
 
 * Ensure both `.es.md` and `.md` files exist
+* Place Spanish chapter files in `/chapters/ES/` and English chapter files in `/chapters/EN/`
 * Follow naming conventions strictly
 * Do not create duplicate or inconsistent structures
 * Do not place files outside the defined structure

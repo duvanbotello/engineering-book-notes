@@ -24,7 +24,8 @@ Este libro conecta decisiones de ingenieria con mantenibilidad de largo plazo y 
 
 ## Capitulos
 
-- [01 - Introduccion](chapters/01-introduction.es.md) | [EN](chapters/01-introduction.md)
+- [01 - Introduccion](chapters/ES/01-introduction.es.md) | [EN](chapters/EN/01-introduction.md)
+- [05 - Liderazgo de equipo](chapters/ES/05-team-leadership.es.md) | [EN](chapters/EN/05-team-leadership.md)
 
 ## Aprendizajes clave
 

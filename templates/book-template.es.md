@@ -24,7 +24,7 @@
 
 ## Capitulos
 
-- [01 - <titulo-del-capitulo>](chapters/01-<titulo-del-capitulo>.es.md) | [EN](chapters/01-<titulo-del-capitulo>.md)
+- [01 - <titulo-del-capitulo>](chapters/ES/01-<titulo-del-capitulo>.es.md) | [EN](chapters/EN/01-<titulo-del-capitulo>.md)
 
 ## Aprendizajes clave
 

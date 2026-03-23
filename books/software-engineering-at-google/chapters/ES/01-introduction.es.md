@@ -1,4 +1,4 @@
-[← Volver al libro](../README.es.md) | [↑ Volver al indice](../../../README.es.md) | [🌐 Cambiar idioma](01-introduction.md)
+[← Volver al libro](../../README.es.md) | [↑ Volver al indice](../../../../README.es.md) | [🌐 Cambiar idioma](../EN/01-introduction.md)
 
 # 01 - Introduccion
 
@@ -38,14 +38,14 @@ El mensaje principal es que la correccion de hoy no alcanza. Una solucion util d
 
 ## Notas relacionadas
 
-- Aprendizajes clave del libro: [Software Engineering at Google - Aprendizajes clave](../README.es.md#aprendizajes-clave)
-- Aplicaciones practicas del libro: [Software Engineering at Google - Aplicaciones practicas](../README.es.md#aplicaciones-practicas)
-- Formato reutilizable de capitulo: [Plantilla de capitulo](../../../templates/chapter-template.es.md)
+- Aprendizajes clave del libro: [Software Engineering at Google - Aprendizajes clave](../../README.es.md#aprendizajes-clave)
+- Aplicaciones practicas del libro: [Software Engineering at Google - Aplicaciones practicas](../../README.es.md#aplicaciones-practicas)
+- Formato reutilizable de capitulo: [Plantilla de capitulo](../../../../templates/chapter-template.es.md)
 
 ## Ver tambien
 
-- Libros relacionados: [Software Engineering at Google - Libros relacionados](../README.es.md#libros-relacionados)
-- Flujo y estructura del repositorio: [Dev Notes README en espanol](../../../README.es.md)
+- Libros relacionados: [Software Engineering at Google - Libros relacionados](../../README.es.md#libros-relacionados)
+- Flujo y estructura del repositorio: [Dev Notes README en espanol](../../../../README.es.md)
 
 ---
 
@@ -53,7 +53,7 @@ El mensaje principal es que la correccion de hoy no alcanza. Una solucion util d
 
 - Capitulo anterior: Ninguno (inicio del libro)
 - Capitulo siguiente: Planificado
-- Notas relacionadas: [README del libro](../README.es.md), [Capitulo en ingles](01-introduction.md)
+- Notas relacionadas: [README del libro](../../README.es.md), [Capitulo en ingles](../EN/01-introduction.md)
 
 ## Aviso legal
 

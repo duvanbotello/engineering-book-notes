@@ -1,4 +1,4 @@
-[← Back to Book](../README.md) | [↑ Back to Index](../../../README.md) | [🌐 Switch Language](01-introduction.es.md)
+[← Back to Book](../../README.md) | [↑ Back to Index](../../../../README.md) | [🌐 Switch Language](../ES/01-introduction.es.md)
 
 # 01 - Introduction
 
@@ -38,14 +38,14 @@ The key message is that correctness today is not enough. A useful solution must 
 
 ## Related notes
 
-- Book key takeaways: [Software Engineering at Google - Key takeaways](../README.md#key-takeaways)
-- Practical applications: [Software Engineering at Google - Practical applications](../README.md#practical-applications)
-- Reusable chapter format: [Chapter template](../../../templates/chapter-template.md)
+- Book key takeaways: [Software Engineering at Google - Key takeaways](../../README.md#key-takeaways)
+- Practical applications: [Software Engineering at Google - Practical applications](../../README.md#practical-applications)
+- Reusable chapter format: [Chapter template](../../../../templates/chapter-template.md)
 
 ## See also
 
-- Related books list: [Software Engineering at Google - Related books](../README.md#related-books)
-- Repository workflow and structure: [Dev Notes README](../../../README.md)
+- Related books list: [Software Engineering at Google - Related books](../../README.md#related-books)
+- Repository workflow and structure: [Dev Notes README](../../../../README.md)
 
 ---
 
@@ -53,7 +53,7 @@ The key message is that correctness today is not enough. A useful solution must 
 
 - Previous chapter: None (start of book)
 - Next chapter: Planned
-- Related notes: [Book README](../README.md), [Spanish chapter](01-introduction.es.md)
+- Related notes: [Book README](../../README.md), [Spanish chapter](../ES/01-introduction.es.md)
 
 ## Disclaimer
 
