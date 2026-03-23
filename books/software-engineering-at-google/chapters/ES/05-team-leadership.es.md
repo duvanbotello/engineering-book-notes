@@ -4,46 +4,61 @@
 
 ## Idea central
 
-Un equipo de ingeniería necesita liderazgo activo para avanzar con foco. El liderazgo efectivo no se basa en controlar, sino en servir al equipo con humildad, respeto y confianza.
+Un equipo de ingeniería necesita liderazgo activo para avanzar con foco y estabilidad. Liderar bien no significa controlar todo: significa servir al equipo con humildad, respeto y confianza, establecer dirección clara y crear un entorno donde las personas puedan crecer con autonomía.
 
 ## Conceptos clave
 
-- **Dirección y responsabilidad:** sin una persona que marque rumbo, el equipo pierde ritmo y claridad.
-- **Liderazgo de servicio:** el rol del líder es desbloquear al equipo, no microgestionar.
-- **Cultura de humildad, respeto y confianza:** estas tres bases sostienen la colaboración técnica.
-- **Contratación que fortalece el equipo:** buscar personas que eleven el nivel y que incluso puedan reemplazar al líder.
-- **Gestión del rendimiento con seguimiento:** reuniones semanales con bajo desempeño y expectativas explícitas por hitos.
-- **Factor humano en software:** la parte más difícil no es solo el código, sino trabajar con personas y dinámicas de equipo.
+- **Principios de liderazgo:** dirección clara, humildad, respeto, confianza y calma bajo presión.
+- **Límites profesionales:** intentar ser amigo de todos es un antipatrón; conviene separar amistad de liderazgo y mantener límites sanos entre lo personal y lo laboral.
+- **Influencia y poder:** cuando un líder influye en la carrera de alguien, puede generar respuestas artificiales; por eso importa crear espacios de conexión sin confundir roles (por ejemplo, almuerzos de equipo).
+- **Autonomía sobre control:** no tratar al equipo como niños; evitar la microgestión salvo en situaciones que realmente lo justifiquen.
+- **Ego y credibilidad:** no hace falta tener todas las respuestas; fingir que sí erosiona el respeto. Es mejor reconocer límites, aceptar críticas y no ser territorial.
+- **Liderazgo como facilitación:** ayudar con preguntas, actuar como catalizador y remover obstáculos en lugar de resolver todo personalmente.
+- **Mentoría efectiva:** combinar experiencia en procesos del equipo, actitud de enseñanza y capacidad de calibrar cuánta ayuda dar.
+- **Gestión del equipo:** definir metas e hitos explícitos, asegurar alineación, delegar sin desconectarse, proteger al equipo del caos y dar visibilidad al buen trabajo.
+- **Motivación humana:** tratar a cada persona como un individuo distinto y diseñar el trabajo para fomentar autonomía, dominio y propósito.
 
 ## Citas (solo breves)
 
 - "Un barco sin capitán no es más que una sala de espera flotante."
 - "Los mejores líderes trabajan para servir a su equipo utilizando los principios de humildad, respeto y confianza."
 - "Resista la tentación de gestionar."
+- "No necesitas tener todas las respuestas, pero sí saber quién sabe."
+- "¿Hay algo en lo que pueda ayudarte?"
 
 ## Mi interpretación
 
-La nota central del capítulo es que liderar bien significa crear condiciones para que el equipo rinda mejor sin depender del control constante. El impacto real del liderazgo aparece en la calidad de la cultura, la claridad de las expectativas y el acompañamiento directo cuando alguien se queda atrás.
+La idea más fuerte del capítulo es que el liderazgo técnico madura cuando el foco pasa del protagonismo individual al rendimiento sostenible del equipo. Un buen líder no centraliza decisiones por ego: crea claridad, cuida el contexto humano, acompaña con criterio y permite que otros brillen. El resultado es un equipo más autónomo, más honesto y más resiliente.
 
 ## Lecciones prácticas
 
-- Definir hitos concretos evita conversaciones ambiguas sobre desempeño.
-- El seguimiento frecuente funciona mejor que las correcciones tardías.
-- Contratar talento que desafíe al líder mejora la resiliencia del equipo.
-- La confianza no reemplaza la exigencia: la hace más efectiva.
+- Definir metas e hitos concretos evita conversaciones ambiguas sobre desempeño.
+- El seguimiento frecuente y temprano funciona mejor que las correcciones tardías.
+- La mentoría útil guía con preguntas y calibración, no con sobreintervención.
+- Ser honesto sobre lo que no sabes fortalece la credibilidad del liderazgo.
+- El feedback directo y empático es más efectivo que técnicas mecánicas como el "feedback sandwich".
+- La autonomía necesita soporte activo: delegar no significa desentenderse.
+- Reconocer logros y dar visibilidad al trabajo bien hecho mejora motivación y compromiso.
 
 ## Preguntas
 
 - ¿Estoy liderando para servir al equipo o para controlar su ejecución?
+- ¿Estoy manteniendo límites profesionales claros sin perder cercanía humana?
 - ¿Mis expectativas de éxito y fracaso son realmente medibles por hitos?
-- ¿Tengo un plan claro de acompañamiento para miembros con bajo rendimiento?
+- ¿Estoy ayudando con preguntas que desarrollen criterio o resolviendo todo yo?
+- ¿Estoy siendo directo y empático en mi feedback, sin rodeos artificiales?
+- ¿Conozco qué motiva a cada persona del equipo más allá de incentivos externos?
 
 ## Acciones
 
-- [ ] Definir hitos explícitos para las tareas clave del sprint.
+- [ ] Definir metas e hitos explícitos para las tareas clave del sprint.
+- [ ] Revisar en cada 1:1 la pregunta: "¿Hay algo en lo que pueda ayudarte?"
 - [ ] Agendar seguimiento semanal con cualquier miembro que necesite soporte cercano.
+- [ ] Practicar feedback directo y empático, evitando el "feedback sandwich".
+- [ ] Delegar una responsabilidad relevante y acordar puntos de control claros sin microgestión.
 - [ ] Revisar el proceso de contratación para priorizar personas que eleven el nivel del equipo.
-- [ ] Evaluar decisiones de liderazgo con el criterio de humildad, respeto y confianza.
+- [ ] Dar visibilidad semanal a logros del equipo en un canal o espacio compartido.
+- [ ] Evaluar decisiones de liderazgo con los criterios de humildad, respeto y confianza.
 
 ## Notas relacionadas
 
