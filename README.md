@@ -1,6 +1,6 @@
-# Dev Notes
+# Engineering Book Notes
 
-> A bilingual knowledge base (Spanish-first) for personal notes on software engineering books.
+> Software engineering book notes in Spanish and English, curated to help developers quickly find meaningful reflections and practical takeaways.
 
 [![Primary language](https://img.shields.io/badge/Language-Spanish-1f6feb)](README.es.md)
 [![Translation](https://img.shields.io/badge/Translation-English-0e8a16)](README.md)

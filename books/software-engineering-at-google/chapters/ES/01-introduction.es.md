@@ -60,7 +60,7 @@ El capítulo obliga a cambiar el criterio de éxito: entregar una solución func
 ## Ver también
 
 - Formato reutilizable de capítulo: [Plantilla de capítulo](../../../../templates/chapter-template.es.md)
-- Flujo y estructura del repositorio: [Dev Notes README en español](../../../../README.es.md)
+- Flujo y estructura del repositorio: [Engineering Book Notes README en español](../../../../README.es.md)
 
 ---
 

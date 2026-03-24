@@ -60,7 +60,7 @@ The chapter forces a shift in success criteria: delivering a working solution is
 ## See also
 
 - Reusable chapter format: [Chapter template](../../../../templates/chapter-template.md)
-- Repository workflow and structure: [Dev Notes README](../../../../README.md)
+- Repository workflow and structure: [Engineering Book Notes README](../../../../README.md)
 
 ---
 

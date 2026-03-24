@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repository (`dev-notes`) is a bilingual (Spanish + English) knowledge base containing structured notes, insights, and reflections from software engineering books.
+This repository (`engineering-book-notes`) is a bilingual (Spanish + English) knowledge base containing structured notes, insights, and reflections from software engineering books.
 
 The goal is to:
 
