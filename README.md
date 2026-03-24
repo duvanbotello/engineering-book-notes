@@ -7,14 +7,14 @@
 [![License](https://img.shields.io/badge/License-CC--BY--4.0-f9a825)](LICENSE)
 [![Books](https://img.shields.io/badge/Books-2-6f42c1)](#books-index)
 
+## Language portal
+
+Choose how you want to read this repository:
+
+- English: [`README.md`](README.md)
+- Español: [`README.es.md`](README.es.md)
+
 ## Cover
-
-### Quick access
-
-- Go to this file (README in English): [`README.md`](README.md)
-- Switch to Spanish: [`README.es.md`](README.es.md)
-- Explore available books: [Books index](#books-index)
-- Create new notes from templates: [`templates/`](templates/)
 
 ### Interactive navigation
 
