@@ -74,6 +74,8 @@ When creating or updating notes:
 
 * Write in a **clear, concise, and structured way**
 * Avoid unnecessary verbosity
+* Follow the corresponding template structure exactly (book or chapter)
+* Do not invent new section structures or break the existing format
 * Focus on:
 
   * Core ideas
@@ -169,6 +171,30 @@ Each chapter must follow the template and include:
 
 ---
 
+## Content Evolution Rules (MANDATORY)
+
+When updating an existing book or chapter:
+
+* **Do not remove important existing content** unless explicitly requested
+* **Do not replace prior ideas**; integrate new information with existing context
+* Preserve the history of ideas and keep continuity across updates
+* Merge overlaps to avoid duplication while keeping key insights
+* If a new idea appears to conflict with earlier notes, add context and clarify tradeoffs instead of deleting prior content
+
+---
+
+## Update Workflow (Book + Chapter)
+
+Whenever new notes are added for a chapter:
+
+1. Read the full current chapter file before editing
+2. Review the corresponding book README (`README.es.md` and `README.md`) for sections that should be enriched
+3. Update affected sections (from templates) to keep content coherent and connected
+4. Improve clarity and grouping where possible, without changing the chapter's core focus
+5. Keep Spanish as source of truth, then synchronize English in the same cycle
+
+---
+
 ## Agent Behavior
 
 When the agent receives notes:
@@ -181,6 +207,7 @@ When the agent receives notes:
 6. Then generate the **English version**
 7. Maintain navigation links
 8. Keep formatting consistent
+9. When updating existing notes, integrate and enrich; do not overwrite prior context
 
 ---
 
@@ -222,5 +249,6 @@ If unsure:
 * Follow the **existing structure**
 * Maintain **consistency**
 * Optimize for **future readability and navigation**
+* Treat the repository as a living knowledge system: every update should improve clarity and preserve important context
 
 This repository is a long-term knowledge system. Act accordingly.
