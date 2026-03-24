@@ -26,6 +26,7 @@ Este libro conecta decisiones de ingeniería con mantenibilidad de largo plazo y
 
 - [01 - ¿Qué es la ingeniería de software?](chapters/ES/01-introduction.es.md) | [EN](chapters/EN/01-introduction.md)
 - [02 - Cómo trabajar bien en equipo](chapters/ES/02-como-trabajar-bien-en-equipo.es.md) | [EN](chapters/EN/02-working-well-in-teams.md)
+- [03 - Compartir conocimientos](chapters/ES/03-compartir-conocimientos.es.md) | [EN](chapters/EN/03-sharing-knowledge.md)
 - [05 - Liderazgo de equipo](chapters/ES/05-team-leadership.es.md) | [EN](chapters/EN/05-team-leadership.md)
 
 ## Aprendizajes clave
@@ -37,6 +38,8 @@ Este libro conecta decisiones de ingeniería con mantenibilidad de largo plazo y
 - La sostenibilidad depende de poder cambiar de forma segura durante toda la vida útil del código.
 - La colaboración visible reduce riesgo y evita invertir tiempo en la dirección equivocada.
 - La humildad, el respeto y la confianza son condiciones técnicas para que un equipo escale bien.
+- Compartir conocimiento reduce puntos únicos de fallo y acelera la capacidad de aprendizaje.
+- La seguridad psicológica habilita preguntas, documentación viva y mejoras sostenibles.
 
 ## Ideas favoritas
 
@@ -51,6 +54,8 @@ Este libro conecta decisiones de ingeniería con mantenibilidad de largo plazo y
 - Diseñar políticas de escalamiento alineadas con la cobertura real de integración continua.
 - Formalizar post-mortems sin culpa con cambios concretos como salida obligatoria.
 - Incentivar feedback temprano para evitar ciclos largos de retrabajo.
+- Institucionalizar ritmos de difusión interna: tips semanales y boletines técnicos.
+- Hacer buscable y editable la documentación para evitar islas de información.
 
 ## Libros relacionados
 

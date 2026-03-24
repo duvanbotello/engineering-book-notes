@@ -52,6 +52,7 @@ This chapter shows that good collaboration is not an optional soft skill: it is 
 ## Related notes
 
 - Book chapter 1: [01 - What is software engineering?](01-introduction.md)
+- Book chapter 3: [03 - Sharing knowledge](03-sharing-knowledge.md)
 - Leadership and team culture: [05 - Team Leadership](05-team-leadership.md)
 - Book key takeaways: [Software Engineering at Google - Key takeaways](../../README.md#key-takeaways)
 
@@ -65,7 +66,7 @@ This chapter shows that good collaboration is not an optional soft skill: it is 
 **Navigation**
 
 - Previous chapter: [01 - What is software engineering?](01-introduction.md)
-- Next chapter: [05 - Team Leadership](05-team-leadership.md)
+- Next chapter: [03 - Sharing knowledge](03-sharing-knowledge.md)
 - Related notes: [Book README](../../README.md), [Spanish version](../ES/02-como-trabajar-bien-en-equipo.es.md)
 
 ## Disclaimer

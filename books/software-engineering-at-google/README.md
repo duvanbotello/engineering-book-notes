@@ -26,6 +26,7 @@ This book connects software engineering decisions with long-term maintainability
 
 - [01 - What is software engineering?](chapters/EN/01-introduction.md) | [ES](chapters/ES/01-introduction.es.md)
 - [02 - Working well in teams](chapters/EN/02-working-well-in-teams.md) | [ES](chapters/ES/02-como-trabajar-bien-en-equipo.es.md)
+- [03 - Sharing knowledge](chapters/EN/03-sharing-knowledge.md) | [ES](chapters/ES/03-compartir-conocimientos.es.md)
 - [05 - Team Leadership](chapters/EN/05-team-leadership.md) | [ES](chapters/ES/05-team-leadership.es.md)
 
 ## Key takeaways
@@ -37,6 +38,8 @@ This book connects software engineering decisions with long-term maintainability
 - Sustainability depends on changing safely throughout the full code lifecycle.
 - Visible collaboration lowers risk and prevents investing time in the wrong direction.
 - Humility, respect, and trust are technical preconditions for healthy team scaling.
+- Knowledge sharing reduces single points of failure and speeds learning capacity.
+- Psychological safety enables questions, living documentation, and sustainable improvement.
 
 ## Favorite ideas
 
@@ -51,6 +54,8 @@ This book connects software engineering decisions with long-term maintainability
 - Design scaling policies aligned with actual continuous integration coverage.
 - Formalize blameless post-mortems with concrete changes as required output.
 - Encourage early feedback to avoid long rework cycles.
+- Institutionalize internal sharing rhythms: weekly tips and technical newsletters.
+- Keep documentation searchable and editable to prevent information islands.
 
 ## Related books
 

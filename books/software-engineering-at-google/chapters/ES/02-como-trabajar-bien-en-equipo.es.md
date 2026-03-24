@@ -52,6 +52,7 @@ Este capítulo muestra que colaborar bien no es una habilidad blanda opcional: e
 ## Notas relacionadas
 
 - Capítulo 1 del libro: [01 - ¿Qué es la ingeniería de software?](01-introduction.es.md)
+- Capítulo 3 del libro: [03 - Compartir conocimientos](03-compartir-conocimientos.es.md)
 - Liderazgo y cultura de equipo: [05 - Liderazgo de equipo](05-team-leadership.es.md)
 - Aprendizajes clave del libro: [Software Engineering at Google - Aprendizajes clave](../../README.es.md#aprendizajes-clave)
 
@@ -65,7 +66,7 @@ Este capítulo muestra que colaborar bien no es una habilidad blanda opcional: e
 **Navegación**
 
 - Capítulo anterior: [01 - ¿Qué es la ingeniería de software?](01-introduction.es.md)
-- Capítulo siguiente: [05 - Liderazgo de equipo](05-team-leadership.es.md)
+- Capítulo siguiente: [03 - Compartir conocimientos](03-compartir-conocimientos.es.md)
 - Notas relacionadas: [README del libro](../../README.es.md), [Versión en inglés](../EN/02-working-well-in-teams.md)
 
 ## Aviso legal
