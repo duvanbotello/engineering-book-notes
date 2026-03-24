@@ -52,6 +52,7 @@ The chapter forces a shift in success criteria: delivering a working solution is
 
 - Book key takeaways: [Software Engineering at Google - Key takeaways](../../README.md#key-takeaways)
 - Practical applications: [Software Engineering at Google - Practical applications](../../README.md#practical-applications)
+- Team collaboration: [02 - Working well in teams](02-working-well-in-teams.md)
 - Leadership and team management: [05 - Team Leadership](05-team-leadership.md)
 
 ## See also
@@ -64,7 +65,7 @@ The chapter forces a shift in success criteria: delivering a working solution is
 **Navigation**
 
 - Previous chapter: None (start of book)
-- Next chapter: [05 - Team Leadership](05-team-leadership.md)
+- Next chapter: [02 - Working well in teams](02-working-well-in-teams.md)
 - Related notes: [Book README](../../README.md), [Spanish chapter](../ES/01-introduction.es.md)
 
 ## Disclaimer

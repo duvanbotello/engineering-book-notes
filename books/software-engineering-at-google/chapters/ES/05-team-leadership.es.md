@@ -63,6 +63,7 @@ La idea más fuerte del capítulo es que el liderazgo técnico madura cuando el 
 ## Notas relacionadas
 
 - Capítulo 1 del libro: [01 - ¿Qué es la ingeniería de software?](01-introduction.es.md)
+- Capítulo 2 del libro: [02 - Cómo trabajar bien en equipo](02-como-trabajar-bien-en-equipo.es.md)
 - Aprendizajes clave del libro: [Software Engineering at Google - Aprendizajes clave](../../README.es.md#aprendizajes-clave)
 - Aplicaciones prácticas del libro: [Software Engineering at Google - Aplicaciones prácticas](../../README.es.md#aplicaciones-prácticas)
 
@@ -75,7 +76,7 @@ La idea más fuerte del capítulo es que el liderazgo técnico madura cuando el 
 
 **Navegación**
 
-- Capítulo anterior: [01 - ¿Qué es la ingeniería de software?](01-introduction.es.md)
+- Capítulo anterior: [02 - Cómo trabajar bien en equipo](02-como-trabajar-bien-en-equipo.es.md)
 - Capítulo siguiente: Pendiente
 - Notas relacionadas: [README del libro](../../README.es.md), [Versión en inglés](../EN/05-team-leadership.md)
 

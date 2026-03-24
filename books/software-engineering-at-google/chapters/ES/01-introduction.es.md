@@ -52,6 +52,7 @@ El capítulo obliga a cambiar el criterio de éxito: entregar una solución func
 
 - Aprendizajes clave del libro: [Software Engineering at Google - Aprendizajes clave](../../README.es.md#aprendizajes-clave)
 - Aplicaciones prácticas del libro: [Software Engineering at Google - Aplicaciones prácticas](../../README.es.md#aplicaciones-prácticas)
+- Colaboración de equipo: [02 - Cómo trabajar bien en equipo](02-como-trabajar-bien-en-equipo.es.md)
 - Liderazgo y gestión de equipo: [05 - Liderazgo de equipo](05-team-leadership.es.md)
 
 ## Ver también
@@ -64,7 +65,7 @@ El capítulo obliga a cambiar el criterio de éxito: entregar una solución func
 **Navegación**
 
 - Capítulo anterior: Ninguno (inicio del libro)
-- Capítulo siguiente: [05 - Liderazgo de equipo](05-team-leadership.es.md)
+- Capítulo siguiente: [02 - Cómo trabajar bien en equipo](02-como-trabajar-bien-en-equipo.es.md)
 - Notas relacionadas: [README del libro](../../README.es.md), [Capítulo en inglés](../EN/01-introduction.md)
 
 ## Aviso legal
