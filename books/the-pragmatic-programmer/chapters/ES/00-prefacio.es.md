@@ -2,6 +2,8 @@
 
 # 00 - Prefacio (primera edición)
 
+> Navegación rápida: [Idea central](#idea-central) · [Conceptos clave](#conceptos-clave) · [Acciones](#acciones) · [Notas relacionadas](#notas-relacionadas)
+
 ## Idea central
 
 No tiene sentido desarrollar software si no hay compromiso real con hacerlo bien. El punto de partida no es la tecnología, sino la actitud profesional frente a la calidad.

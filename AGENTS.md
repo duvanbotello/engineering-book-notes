@@ -52,6 +52,8 @@ Use templates from `/templates/` exactly as follows:
 * Book README in English (`/books/<book-name>/README.md`) → `templates/book-template.md`
 * Chapter in Spanish (`/books/<book-name>/chapters/ES/<nn>-<chapter>.es.md`) → `templates/chapter-template.es.md`
 * Chapter in English (`/books/<book-name>/chapters/EN/<nn>-<chapter>.md`) → `templates/chapter-template.md`
+* Templates are the canonical guide for structure when creating new files
+* If a file already has the required structure and synchronized sections, do not re-template it; use templates to fill missing sections or create new content
 
 ### Rules
 
@@ -156,6 +158,9 @@ Each book (`README.md` and `README.es.md`) must include:
 
 * Book title and author
 * Status (reading, completed, revisiting)
+* Language portal section to choose English or Spanish
+* Quick navigation links for major sections
+* Expandable quick map table with chapter links in both languages
 * Main topics
 * Why this book matters
 * Key takeaways

@@ -1,5 +1,17 @@
 # <book-title>
 
+[![Language](https://img.shields.io/badge/Language-English-1f6feb)](README.md)
+[![Español](https://img.shields.io/badge/ES-Disponible-0e8a16)](README.es.md)
+[![Chapters](https://img.shields.io/badge/Chapters-2-f9a825)](#chapters)
+[![Status](https://img.shields.io/badge/Status-Reading-6f42c1)](#metadata)
+
+## Language portal
+
+Choose how you want to read this book:
+
+- English: [`README.md`](README.md)
+- Español: [`README.es.md`](README.es.md)
+
 ## Metadata
 
 - Title: <book-title>
@@ -11,6 +23,25 @@
 
 - Spanish version: [README.es.md](README.es.md)
 - Back to repository index: [../../README.md](../../README.md)
+
+## Quick navigation
+
+- 📘 [Chapters](#chapters)
+- 🎯 [Key takeaways](#key-takeaways)
+- 🧪 [Practical applications](#practical-applications)
+- 🔗 [Related books](#related-books)
+- 🌐 [Switch to Spanish](README.es.md)
+- ⬆️ [Back to repository index](../../README.md)
+
+<details>
+<summary><strong>Book quick map (expand/collapse)</strong></summary>
+
+| Chapter | Core topic | EN | ES |
+|---|---|---|---|
+| 01 | <chapter-title> | [Open](chapters/EN/01-<chapter-title>.md) | [Abrir](chapters/ES/01-<chapter-title>.es.md) |
+| 02 | <chapter-title> | [Open](chapters/EN/02-<chapter-title>.md) | [Abrir](chapters/ES/02-<chapter-title>.es.md) |
+
+</details>
 
 ## Main topics
 

@@ -2,6 +2,8 @@
 
 # 00 - Preface (first edition)
 
+> Quick navigation: [Core idea](#core-idea) · [Key concepts](#key-concepts) · [Actions](#actions) · [Related notes](#related-notes)
+
 ## Core idea
 
 There is no point in developing software if there is no real commitment to doing it well. The starting point is not technology, but professional attitude toward quality.

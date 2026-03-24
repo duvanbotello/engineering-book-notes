@@ -1,5 +1,17 @@
 # <titulo-del-libro>
 
+[![Idioma](https://img.shields.io/badge/Idioma-Español-1f6feb)](README.es.md)
+[![English](https://img.shields.io/badge/EN-Disponible-0e8a16)](README.md)
+[![Capítulos](https://img.shields.io/badge/Capítulos-2-f9a825)](#capítulos)
+[![Estado](https://img.shields.io/badge/Estado-Leyendo-6f42c1)](#metadatos)
+
+## Portal de idioma
+
+Elige cómo quieres leer este libro:
+
+- Español: [`README.es.md`](README.es.md)
+- English: [`README.md`](README.md)
+
 ## Metadatos
 
 - Título: <titulo-del-libro>
@@ -11,6 +23,25 @@
 
 - Versión en inglés: [README.md](README.md)
 - Volver al índice del repositorio: [../../README.es.md](../../README.es.md)
+
+## Navegación rápida
+
+- 📘 [Capítulos](#capítulos)
+- 🎯 [Aprendizajes clave](#aprendizajes-clave)
+- 🧪 [Aplicaciones prácticas](#aplicaciones-prácticas)
+- 🔗 [Libros relacionados](#libros-relacionados)
+- 🌐 [Cambiar a inglés](README.md)
+- ⬆️ [Volver al índice del repositorio](../../README.es.md)
+
+<details>
+<summary><strong>Mapa rápido del libro (abrir/cerrar)</strong></summary>
+
+| Capítulo | Tema central | ES | EN |
+|---|---|---|---|
+| 01 | <titulo-del-capitulo> | [Abrir](chapters/ES/01-<titulo-del-capitulo>.es.md) | [Open](chapters/EN/01-<titulo-del-capitulo>.md) |
+| 02 | <titulo-del-capitulo> | [Abrir](chapters/ES/02-<titulo-del-capitulo>.es.md) | [Open](chapters/EN/02-<titulo-del-capitulo>.md) |
+
+</details>
 
 ## Temas principales
 

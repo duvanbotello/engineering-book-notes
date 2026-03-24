@@ -2,6 +2,8 @@
 
 # 01 - Una filosofía pragmática
 
+> Navegación rápida: [Idea central](#idea-central) · [Conceptos clave](#conceptos-clave) · [Acciones](#acciones) · [Notas relacionadas](#notas-relacionadas)
+
 ## Idea central
 
 Una filosofía pragmática combina responsabilidad personal, criterio técnico y cuidado del equipo. No se trata de saberlo todo, sino de actuar con honestidad, foco en soluciones y mejora constante.

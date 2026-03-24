@@ -1,5 +1,17 @@
 # The Pragmatic Programmer (El Programador Pragmático)
 
+[![Idioma](https://img.shields.io/badge/Idioma-Español-1f6feb)](README.es.md)
+[![English](https://img.shields.io/badge/EN-Disponible-0e8a16)](README.md)
+[![Capítulos](https://img.shields.io/badge/Capítulos-2-f9a825)](#capítulos)
+[![Estado](https://img.shields.io/badge/Estado-Leyendo-6f42c1)](#metadatos)
+
+## Portal de idioma
+
+Elige cómo quieres leer este libro:
+
+- Español: [`README.es.md`](README.es.md)
+- English: [`README.md`](README.md)
+
 ## Metadatos
 
 - Título: The Pragmatic Programmer (El Programador Pragmático)
@@ -11,6 +23,25 @@
 
 - Versión en inglés: [README.md](README.md)
 - Volver al índice del repositorio: [../../README.es.md](../../README.es.md)
+
+## Navegación rápida
+
+- 📘 [Capítulos](#capítulos)
+- 🎯 [Aprendizajes clave](#aprendizajes-clave)
+- 🧪 [Aplicaciones prácticas](#aplicaciones-prácticas)
+- 🔗 [Libros relacionados](#libros-relacionados)
+- 🌐 [Cambiar a inglés](README.md)
+- ⬆️ [Volver al índice del repositorio](../../README.es.md)
+
+<details>
+<summary><strong>Mapa rápido del libro (abrir/cerrar)</strong></summary>
+
+| Capítulo | Tema central | ES | EN |
+|---|---|---|---|
+| 00 | Prefacio (primera edición) | [Abrir](chapters/ES/00-prefacio.es.md) | [Open](chapters/EN/00-preface.md) |
+| 01 | Una filosofía pragmática | [Abrir](chapters/ES/01-una-filosofia-pragmatica.es.md) | [Open](chapters/EN/01-a-pragmatic-philosophy.md) |
+
+</details>
 
 ## Temas principales
 
@@ -30,6 +61,12 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 
 ## Aprendizajes clave
 
+### Capítulo 0 - Prefacio (primera edición)
+
+- No tiene sentido desarrollar software sin compromiso real con hacerlo bien.
+
+### Capítulo 1 - Una filosofía pragmática
+
 - La responsabilidad personal reduce fricción y acelera soluciones.
 - El desorden técnico crece si no se corrige temprano.
 - Aprender de forma constante y diversa protege la carrera.
@@ -41,6 +78,12 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - Preguntar con frecuencia: "¿Hay algo en lo que pueda ayudarte?".
 
 ## Aplicaciones prácticas
+
+### Capítulo 0 - Prefacio (primera edición)
+
+- Acordar criterios mínimos de calidad antes de iniciar nuevas entregas.
+
+### Capítulo 1 - Una filosofía pragmática
 
 - Revisar "ventanas rotas" del código en cada iteración.
 - Definir una cartera de conocimiento con aprendizaje semanal.

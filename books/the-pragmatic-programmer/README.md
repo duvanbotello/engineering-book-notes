@@ -1,5 +1,17 @@
 # The Pragmatic Programmer (El Programador Pragmático)
 
+[![Language](https://img.shields.io/badge/Language-English-1f6feb)](README.md)
+[![Español](https://img.shields.io/badge/ES-Disponible-0e8a16)](README.es.md)
+[![Chapters](https://img.shields.io/badge/Chapters-2-f9a825)](#chapters)
+[![Status](https://img.shields.io/badge/Status-Reading-6f42c1)](#metadata)
+
+## Language portal
+
+Choose how you want to read this book:
+
+- English: [`README.md`](README.md)
+- Español: [`README.es.md`](README.es.md)
+
 ## Metadata
 
 - Title: The Pragmatic Programmer (El Programador Pragmático)
@@ -11,6 +23,25 @@
 
 - Spanish version: [README.es.md](README.es.md)
 - Back to repository index: [../../README.md](../../README.md)
+
+## Quick navigation
+
+- 📘 [Chapters](#chapters)
+- 🎯 [Key takeaways](#key-takeaways)
+- 🧪 [Practical applications](#practical-applications)
+- 🔗 [Related books](#related-books)
+- 🌐 [Switch to Spanish](README.es.md)
+- ⬆️ [Back to repository index](../../README.md)
+
+<details>
+<summary><strong>Book quick map (expand/collapse)</strong></summary>
+
+| Chapter | Core topic | EN | ES |
+|---|---|---|---|
+| 00 | Preface (first edition) | [Open](chapters/EN/00-preface.md) | [Abrir](chapters/ES/00-prefacio.es.md) |
+| 01 | A pragmatic philosophy | [Open](chapters/EN/01-a-pragmatic-philosophy.md) | [Abrir](chapters/ES/01-una-filosofia-pragmatica.es.md) |
+
+</details>
 
 ## Main topics
 
@@ -30,6 +61,12 @@ These notes ground a simple but demanding idea: writing software well is not onl
 
 ## Key takeaways
 
+### Chapter 0 - Preface (first edition)
+
+- There is no point in developing software without a real commitment to doing it well.
+
+### Chapter 1 - A pragmatic philosophy
+
 - Personal ownership reduces friction and speeds up solutions.
 - Technical disorder grows when it is not corrected early.
 - Consistent and diversified learning protects your career.
@@ -41,6 +78,12 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - Ask often: "Is there anything I can help you with?"
 
 ## Practical applications
+
+### Chapter 0 - Preface (first edition)
+
+- Align on minimum quality criteria before starting new deliveries.
+
+### Chapter 1 - A pragmatic philosophy
 
 - Review code "broken windows" in every iteration.
 - Maintain a knowledge portfolio with weekly learning.

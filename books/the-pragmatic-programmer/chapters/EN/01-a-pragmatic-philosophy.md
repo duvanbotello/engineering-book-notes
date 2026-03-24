@@ -2,6 +2,8 @@
 
 # 01 - A pragmatic philosophy
 
+> Quick navigation: [Core idea](#core-idea) · [Key concepts](#key-concepts) · [Actions](#actions) · [Related notes](#related-notes)
+
 ## Core idea
 
 A pragmatic philosophy combines personal ownership, technical judgment, and team care. It is not about knowing everything, but about acting with honesty, solution focus, and continuous improvement.

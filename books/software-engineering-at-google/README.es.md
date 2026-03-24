@@ -5,6 +5,13 @@
 [![Capítulos](https://img.shields.io/badge/Capítulos-5-f9a825)](#capítulos)
 [![Estado](https://img.shields.io/badge/Estado-Leyendo-6f42c1)](#metadatos)
 
+## Portal de idioma
+
+Elige cómo quieres leer este libro:
+
+- Español: [`README.es.md`](README.es.md)
+- English: [`README.md`](README.md)
+
 ## Metadatos
 
 - Título: Software Engineering at Google
