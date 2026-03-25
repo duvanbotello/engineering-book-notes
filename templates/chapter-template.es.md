@@ -20,7 +20,7 @@
 
 ## Mi interpretación
 
-<Explica tu comprension con tus propias palabras.>
+<Explica tu comprensión con tus propias palabras.>
 
 ## Lecciones prácticas
 
@@ -44,7 +44,7 @@
 
 ## Ver también
 
-- <paper, charla o articulo externo>
+- <paper, charla o artículo externo>
 
 ---
 

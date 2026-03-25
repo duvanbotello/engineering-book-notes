@@ -87,6 +87,9 @@ When creating or updating notes:
 * Avoid unnecessary verbosity
 * Follow the corresponding template structure exactly (book or chapter)
 * Do not invent new section structures or break the existing format
+* Always perform an explicit orthography and coherence review before finalizing any text update
+* Preserve the user's ideas as faithfully as possible; do not invent, extrapolate, or allude to ideas that were not explicitly provided
+* If input is ambiguous, ask for clarification instead of filling gaps with creative assumptions
 * Focus on:
 
   * Core ideas
