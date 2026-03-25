@@ -42,9 +42,9 @@ Choose how you want to read this repository:
 
 > This section shows **only the latest 3 updates** in the repository. It must be refreshed whenever content is added or updated in any book.
 
+- New chapter: [The Pragmatic Programmer - 02 A pragmatic approach](books/the-pragmatic-programmer/chapters/EN/02-a-pragmatic-approach.md)
+- Book update: [The Pragmatic Programmer](books/the-pragmatic-programmer/README.md)
 - New chapter: [Software Engineering at Google - 09 Code review](books/software-engineering-at-google/chapters/EN/09-code-review.md)
-- New chapter: [Software Engineering at Google - 03 Sharing knowledge](books/software-engineering-at-google/chapters/EN/03-sharing-knowledge.md)
-- New book: [The Pragmatic Programmer](books/the-pragmatic-programmer/README.md)
 
 ## Why this repository exists
 
@@ -72,7 +72,7 @@ This repository exists to turn reading notes into a practical engineering handbo
 | Book | Status | Chapters | English | Spanish |
 |---|---|---:|---|---|
 | `software-engineering-at-google` | reading | 5 | [Open](books/software-engineering-at-google/README.md) | [Abrir](books/software-engineering-at-google/README.es.md) |
-| `the-pragmatic-programmer` | reading | 2 | [Open](books/the-pragmatic-programmer/README.md) | [Abrir](books/the-pragmatic-programmer/README.es.md) |
+| `the-pragmatic-programmer` | reading | 3 | [Open](books/the-pragmatic-programmer/README.md) | [Abrir](books/the-pragmatic-programmer/README.es.md) |
 
 <details>
 <summary><strong>Global quick map (expand/collapse)</strong></summary>
@@ -86,6 +86,7 @@ This repository exists to turn reading notes into a practical engineering handbo
 | Software Engineering at Google | 09 - Code review | [Open](books/software-engineering-at-google/chapters/EN/09-code-review.md) | [Abrir](books/software-engineering-at-google/chapters/ES/09-revision-de-codigo.es.md) |
 | The Pragmatic Programmer | 00 - Preface | [Open](books/the-pragmatic-programmer/chapters/EN/00-preface.md) | [Abrir](books/the-pragmatic-programmer/chapters/ES/00-prefacio.es.md) |
 | The Pragmatic Programmer | 01 - A pragmatic philosophy | [Open](books/the-pragmatic-programmer/chapters/EN/01-a-pragmatic-philosophy.md) | [Abrir](books/the-pragmatic-programmer/chapters/ES/01-una-filosofia-pragmatica.es.md) |
+| The Pragmatic Programmer | 02 - A pragmatic approach | [Open](books/the-pragmatic-programmer/chapters/EN/02-a-pragmatic-approach.md) | [Abrir](books/the-pragmatic-programmer/chapters/ES/02-un-enfoque-pragmatico.es.md) |
 
 </details>
 
@@ -129,10 +130,12 @@ Each chapter includes top and bottom navigation, language switching, and cross-l
 │       └── chapters/
 │           ├── EN/
 │           │   ├── 00-preface.md
-│           │   └── 01-a-pragmatic-philosophy.md
+│           │   ├── 01-a-pragmatic-philosophy.md
+│           │   └── 02-a-pragmatic-approach.md
 │           └── ES/
 │               ├── 00-prefacio.es.md
-│               └── 01-una-filosofia-pragmatica.es.md
+│               ├── 01-una-filosofia-pragmatica.es.md
+│               └── 02-un-enfoque-pragmatico.es.md
 └── templates/
     ├── book-template.es.md
     ├── book-template.md

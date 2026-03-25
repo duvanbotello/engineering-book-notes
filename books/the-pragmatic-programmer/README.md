@@ -2,7 +2,7 @@
 
 [![Language](https://img.shields.io/badge/Language-English-1f6feb)](README.md)
 [![Español](https://img.shields.io/badge/ES-Disponible-0e8a16)](README.es.md)
-[![Chapters](https://img.shields.io/badge/Chapters-2-f9a825)](#chapters)
+[![Chapters](https://img.shields.io/badge/Chapters-3-f9a825)](#chapters)
 [![Status](https://img.shields.io/badge/Status-Reading-6f42c1)](#metadata)
 
 ## Language portal
@@ -40,6 +40,7 @@ Choose how you want to read this book:
 |---|---|---|---|
 | 00 | Preface (first edition) | [Open](chapters/EN/00-preface.md) | [Abrir](chapters/ES/00-prefacio.es.md) |
 | 01 | A pragmatic philosophy | [Open](chapters/EN/01-a-pragmatic-philosophy.md) | [Abrir](chapters/ES/01-una-filosofia-pragmatica.es.md) |
+| 02 | A pragmatic approach | [Open](chapters/EN/02-a-pragmatic-approach.md) | [Abrir](chapters/ES/02-un-enfoque-pragmatico.es.md) |
 
 </details>
 
@@ -47,6 +48,7 @@ Choose how you want to read this book:
 
 - Professional responsibility without excuses
 - Sustainable quality and code care
+- Orthogonality and decoupling for safer change
 - Continuous growth and critical thinking
 - Effective communication in technical teams
 
@@ -58,6 +60,7 @@ These notes ground a simple but demanding idea: writing software well is not onl
 
 - [00 - Preface (first edition)](chapters/EN/00-preface.md) | [ES](chapters/ES/00-prefacio.es.md)
 - [01 - A pragmatic philosophy](chapters/EN/01-a-pragmatic-philosophy.md) | [ES](chapters/ES/01-una-filosofia-pragmatica.es.md)
+- [02 - A pragmatic approach](chapters/EN/02-a-pragmatic-approach.md) | [ES](chapters/ES/02-un-enfoque-pragmatico.es.md)
 
 ## Key takeaways
 
@@ -71,6 +74,12 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - Technical disorder grows when it is not corrected early.
 - Consistent and diversified learning protects your career.
 - Clear communication is also part of engineering work.
+
+### Chapter 2 - A pragmatic approach
+
+- Orthogonality makes it easier to change one component without unintended side effects.
+- Unit tests reveal weak modularity when they require too many system dependencies.
+- Technical decisions should be reversible so the architecture can adapt to change.
 
 ## Favorite ideas
 
@@ -88,6 +97,12 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - Review code "broken windows" in every iteration.
 - Maintain a knowledge portfolio with weekly learning.
 - Before adopting an idea, evaluate context, beneficiaries, and limits.
+
+### Chapter 2 - A pragmatic approach
+
+- Avoid global data and unnecessary coupling between modules.
+- Evaluate third-party libraries by reversal cost, not only initial speed.
+- Design unit tests with minimal dependencies as a design rule.
 
 ## Related books
 

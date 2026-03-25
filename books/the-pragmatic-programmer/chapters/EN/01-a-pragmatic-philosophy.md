@@ -67,7 +67,7 @@ This chapter grounds a work ethic: being pragmatic is not improvising, it is tak
 **Navigation**
 
 - Previous chapter: [00 - Preface (first edition)](00-preface.md)
-- Next chapter: Planned
+- Next chapter: [02 - A pragmatic approach](02-a-pragmatic-approach.md)
 - Related notes: [Book README](../../README.md), [Spanish version](../ES/01-una-filosofia-pragmatica.es.md)
 
 ## Disclaimer

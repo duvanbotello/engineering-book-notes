@@ -67,7 +67,7 @@ Este capítulo aterriza una ética de trabajo: ser pragmático no es improvisar,
 **Navegación**
 
 - Capítulo anterior: [00 - Prefacio (primera edición)](00-prefacio.es.md)
-- Capítulo siguiente: Pendiente
+- Capítulo siguiente: [02 - Un enfoque pragmático](02-un-enfoque-pragmatico.es.md)
 - Notas relacionadas: [README del libro](../../README.es.md), [Versión en inglés](../EN/01-a-pragmatic-philosophy.md)
 
 ## Aviso legal
