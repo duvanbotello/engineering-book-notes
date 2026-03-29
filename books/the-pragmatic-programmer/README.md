@@ -2,7 +2,7 @@
 
 [![Language](https://img.shields.io/badge/Language-English-1f6feb)](README.md)
 [![Español](https://img.shields.io/badge/ES-Disponible-0e8a16)](README.es.md)
-[![Chapters](https://img.shields.io/badge/Chapters-3-f9a825)](#chapters)
+[![Chapters](https://img.shields.io/badge/Chapters-4-f9a825)](#chapters)
 [![Status](https://img.shields.io/badge/Status-Reading-6f42c1)](#metadata)
 
 ## Language portal
@@ -41,6 +41,7 @@ Choose how you want to read this book:
 | 00 | Preface (first edition) | [Open](chapters/EN/00-preface.md) | [Abrir](chapters/ES/00-prefacio.es.md) |
 | 01 | A pragmatic philosophy | [Open](chapters/EN/01-a-pragmatic-philosophy.md) | [Abrir](chapters/ES/01-una-filosofia-pragmatica.es.md) |
 | 02 | A pragmatic approach | [Open](chapters/EN/02-a-pragmatic-approach.md) | [Abrir](chapters/ES/02-un-enfoque-pragmatico.es.md) |
+| 04 | Pragmatic paranoia | [Open](chapters/EN/04-pragmatic-paranoia.md) | [Abrir](chapters/ES/04-paranoia-pragmatica.es.md) |
 
 </details>
 
@@ -61,6 +62,7 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - [00 - Preface (first edition)](chapters/EN/00-preface.md) | [ES](chapters/ES/00-prefacio.es.md)
 - [01 - A pragmatic philosophy](chapters/EN/01-a-pragmatic-philosophy.md) | [ES](chapters/ES/01-una-filosofia-pragmatica.es.md)
 - [02 - A pragmatic approach](chapters/EN/02-a-pragmatic-approach.md) | [ES](chapters/ES/02-un-enfoque-pragmatico.es.md)
+- [04 - Pragmatic paranoia](chapters/EN/04-pragmatic-paranoia.md) | [ES](chapters/ES/04-paranoia-pragmatica.es.md)
 
 ## Key takeaways
 
@@ -81,6 +83,14 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - Tracer bullets validate end-to-end integration early and reduce technical uncertainty.
 - Prototypes are useful for exploring architecture, performance, or UX, but they must be explicitly disposable.
 - In estimation, align on the required level of accuracy before committing to a date.
+
+### Chapter 4 - Pragmatic paranoia
+
+- We do not write perfect software, so we must build defenses against our own mistakes.
+- A correct program fulfills exactly its contract: neither more nor less.
+- On impossible states, failing fast is safer than continuing with silent corruption.
+- The combination of contracts, assertions, and continuous checks reduces avoidable failures.
+- A task is too large when it depends on guessing instead of stepwise validation.
 
 ## Favorite ideas
 
@@ -105,6 +115,14 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - Design a tracer bullet to validate the system's critical flow early.
 - Use explicitly disposable prototypes to explore architecture or performance decisions.
 - Define estimates with range, assumptions, and the accuracy level requested by decision-makers.
+
+### Chapter 4 - Pragmatic paranoia
+
+- Define preconditions, postconditions, and invariants in critical modules.
+- Add assertions at points where we currently assume "that never happens."
+- Configure fail-fast behavior when impossible states appear.
+- Review resource allocation/release flow to guarantee symmetry and cleanup.
+- Break large tasks into short increments with early feedback.
 
 ## Related books
 

@@ -71,7 +71,7 @@ Este capítulo me deja una idea práctica: no todo se resuelve construyendo más
 **Navegación**
 
 - Capítulo anterior: [01 - Una filosofía pragmática](01-una-filosofia-pragmatica.es.md)
-- Capítulo siguiente: Pendiente
+- Capítulo siguiente: [04 - Paranoia pragmática](04-paranoia-pragmatica.es.md)
 - Notas relacionadas: [README del libro](../../README.es.md), [Versión en inglés](../EN/02-a-pragmatic-approach.md)
 
 ## Aviso legal

@@ -71,7 +71,7 @@ This chapter leaves me with a practical idea: not everything is solved by buildi
 **Navigation**
 
 - Previous chapter: [01 - A pragmatic philosophy](01-a-pragmatic-philosophy.md)
-- Next chapter: Planned
+- Next chapter: [04 - Pragmatic paranoia](04-pragmatic-paranoia.md)
 - Related notes: [Book README](../../README.md), [Spanish version](../ES/02-un-enfoque-pragmatico.es.md)
 
 ## Disclaimer

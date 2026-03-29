@@ -2,7 +2,7 @@
 
 [![Idioma](https://img.shields.io/badge/Idioma-Español-1f6feb)](README.es.md)
 [![English](https://img.shields.io/badge/EN-Disponible-0e8a16)](README.md)
-[![Capítulos](https://img.shields.io/badge/Capítulos-3-f9a825)](#capítulos)
+[![Capítulos](https://img.shields.io/badge/Capítulos-4-f9a825)](#capítulos)
 [![Estado](https://img.shields.io/badge/Estado-Leyendo-6f42c1)](#metadatos)
 
 ## Portal de idioma
@@ -41,6 +41,7 @@ Elige cómo quieres leer este libro:
 | 00 | Prefacio (primera edición) | [Abrir](chapters/ES/00-prefacio.es.md) | [Open](chapters/EN/00-preface.md) |
 | 01 | Una filosofía pragmática | [Abrir](chapters/ES/01-una-filosofia-pragmatica.es.md) | [Open](chapters/EN/01-a-pragmatic-philosophy.md) |
 | 02 | Un enfoque pragmático | [Abrir](chapters/ES/02-un-enfoque-pragmatico.es.md) | [Open](chapters/EN/02-a-pragmatic-approach.md) |
+| 04 | Paranoia pragmática | [Abrir](chapters/ES/04-paranoia-pragmatica.es.md) | [Open](chapters/EN/04-pragmatic-paranoia.md) |
 
 </details>
 
@@ -61,6 +62,7 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - [00 - Prefacio (primera edición)](chapters/ES/00-prefacio.es.md) | [EN](chapters/EN/00-preface.md)
 - [01 - Una filosofía pragmática](chapters/ES/01-una-filosofia-pragmatica.es.md) | [EN](chapters/EN/01-a-pragmatic-philosophy.md)
 - [02 - Un enfoque pragmático](chapters/ES/02-un-enfoque-pragmatico.es.md) | [EN](chapters/EN/02-a-pragmatic-approach.md)
+- [04 - Paranoia pragmática](chapters/ES/04-paranoia-pragmatica.es.md) | [EN](chapters/EN/04-pragmatic-paranoia.md)
 
 ## Aprendizajes clave
 
@@ -81,6 +83,14 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - Las balas trazadoras validan integración de extremo a extremo desde temprano y reducen incertidumbre técnica.
 - Los prototipos son útiles para explorar arquitectura, rendimiento o UX, pero deben declararse como desechables.
 - En estimaciones, primero hay que acordar el nivel de exactitud requerido antes de comprometer una fecha.
+
+### Capítulo 4 - Paranoia pragmática
+
+- No escribimos software perfecto: por eso hay que diseñar defensas contra errores propios.
+- Un programa correcto cumple exactamente su contrato: ni más ni menos.
+- Ante estados imposibles, fallar rápido protege más que continuar con corrupción silenciosa.
+- La combinación de contratos, aserciones y validaciones continuas reduce fallos evitables.
+- Una tarea es demasiado grande cuando obliga a adivinar en lugar de validar por pasos.
 
 ## Ideas favoritas
 
@@ -105,6 +115,14 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - Diseñar una bala trazadora para validar temprano el flujo crítico del sistema.
 - Usar prototipos explícitamente desechables para explorar decisiones de arquitectura o rendimiento.
 - Definir estimaciones con rango, supuestos y nivel de exactitud solicitado por quien decide.
+
+### Capítulo 4 - Paranoia pragmática
+
+- Definir precondiciones, postcondiciones e invariantes en módulos críticos.
+- Añadir aserciones en puntos donde hoy asumimos que "eso nunca pasa".
+- Configurar fallo rápido cuando aparezcan estados imposibles.
+- Revisar asignación y liberación de recursos para asegurar simetría y limpieza.
+- Dividir tareas grandes en incrementos cortos con feedback temprano.
 
 ## Libros relacionados
 
