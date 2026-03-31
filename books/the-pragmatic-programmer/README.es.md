@@ -29,6 +29,7 @@ Elige cómo quieres leer este libro:
 - 📘 [Capítulos](#capítulos)
 - 🎯 [Aprendizajes clave](#aprendizajes-clave)
 - 🧪 [Aplicaciones prácticas](#aplicaciones-prácticas)
+- 🧭 [Explorar por conceptos y rutas](#explorar-por-conceptos-y-rutas)
 - 🔗 [Libros relacionados](#libros-relacionados)
 - 🌐 [Cambiar a inglés](README.md)
 - ⬆️ [Volver al índice del repositorio](../../README.es.md)
@@ -69,6 +70,11 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - [05 - Doblar o romper](chapters/ES/05-doblar-o-romper.es.md) | [EN](chapters/EN/05-bend-or-break.md)
 - [06 - Concurrencia](chapters/ES/06-concurrencia.es.md) | [EN](chapters/EN/06-concurrency.md)
 - [07 - Mientras escribe código](chapters/ES/07-mientras-escribe-codigo.es.md) | [EN](chapters/EN/07-while-you-are-coding.md)
+
+## Explorar por conceptos y rutas
+
+- Índice global de conceptos: [docs/concepts-index.es.md](../../docs/concepts-index.es.md) | [EN](../../docs/concepts-index.md)
+- Rutas de lectura sugeridas: [docs/reading-paths.es.md](../../docs/reading-paths.es.md) | [EN](../../docs/reading-paths.md)
 
 ## Aprendizajes clave
 

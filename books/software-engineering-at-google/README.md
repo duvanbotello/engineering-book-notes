@@ -29,6 +29,7 @@ Choose how you want to read this book:
 - 📘 [Chapters](#chapters)
 - 🎯 [Key takeaways](#key-takeaways)
 - 🧪 [Practical applications](#practical-applications)
+- 🧭 [Explore by concepts and paths](#explore-by-concepts-and-paths)
 - 🔗 [Related books](#related-books)
 - 🌐 [Switch to Spanish](README.es.md)
 - ⬆️ [Back to repository index](../../README.md)
@@ -63,6 +64,11 @@ This book connects software engineering decisions with long-term maintainability
 - [03 - Sharing knowledge](chapters/EN/03-sharing-knowledge.md) | [ES](chapters/ES/03-compartir-conocimientos.es.md)
 - [05 - Team Leadership](chapters/EN/05-team-leadership.md) | [ES](chapters/ES/05-team-leadership.es.md)
 - [09 - Code review](chapters/EN/09-code-review.md) | [ES](chapters/ES/09-revision-de-codigo.es.md)
+
+## Explore by concepts and paths
+
+- Global concepts index: [docs/concepts-index.md](../../docs/concepts-index.md) | [ES](../../docs/concepts-index.es.md)
+- Suggested reading paths: [docs/reading-paths.md](../../docs/reading-paths.md) | [ES](../../docs/reading-paths.es.md)
 
 ## Key takeaways
 

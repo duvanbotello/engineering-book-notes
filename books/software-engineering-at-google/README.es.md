@@ -29,6 +29,7 @@ Elige cómo quieres leer este libro:
 - 📘 [Capítulos](#capítulos)
 - 🎯 [Aprendizajes clave](#aprendizajes-clave)
 - 🧪 [Aplicaciones prácticas](#aplicaciones-prácticas)
+- 🧭 [Explorar por conceptos y rutas](#explorar-por-conceptos-y-rutas)
 - 🔗 [Libros relacionados](#libros-relacionados)
 - 🌐 [Cambiar a inglés](README.md)
 - ⬆️ [Volver al índice del repositorio](../../README.es.md)
@@ -63,6 +64,11 @@ Este libro conecta decisiones de ingeniería con mantenibilidad de largo plazo y
 - [03 - Compartir conocimientos](chapters/ES/03-compartir-conocimientos.es.md) | [EN](chapters/EN/03-sharing-knowledge.md)
 - [05 - Liderazgo de equipo](chapters/ES/05-team-leadership.es.md) | [EN](chapters/EN/05-team-leadership.md)
 - [09 - Revisión de código](chapters/ES/09-revision-de-codigo.es.md) | [EN](chapters/EN/09-code-review.md)
+
+## Explorar por conceptos y rutas
+
+- Índice global de conceptos: [docs/concepts-index.es.md](../../docs/concepts-index.es.md) | [EN](../../docs/concepts-index.md)
+- Rutas de lectura sugeridas: [docs/reading-paths.es.md](../../docs/reading-paths.es.md) | [EN](../../docs/reading-paths.md)
 
 ## Aprendizajes clave
 

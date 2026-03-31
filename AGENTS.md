@@ -155,6 +155,30 @@ Each chapter should include:
 
 ---
 
+## Discovery and Navigation Coherence (MANDATORY)
+
+Keep the existing navigation model and extend it with discovery artifacts.
+
+* **Do not replace existing navigation** (`←`, `↑`, `🌐`, previous/next links); only add complementary discovery links
+* Maintain global discovery files in `/docs/`:
+
+  * `docs/concepts-index.es.md` and `docs/concepts-index.md`
+  * `docs/reading-paths.es.md` and `docs/reading-paths.md`
+* Every new chapter must be reflected in the same update cycle in:
+
+  * The relevant concept groups in `concepts-index` (ES + EN)
+  * At least one route in `reading-paths` (ES + EN)
+* Keep concept names stable across updates (avoid duplicate synonym categories)
+* Routes must follow a consistent structure:
+
+  * Goal
+  * Suggested chapter order
+  * Expected outcome
+* Do not leave chapters orphaned from discovery navigation (chapter exists but is absent from concepts and routes)
+* When discovery files change, update links in root README files and relevant book README files in both languages in the same cycle
+
+---
+
 ## Book-Level Requirements
 
 Each book (`README.md` and `README.es.md`) must include:

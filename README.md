@@ -22,6 +22,7 @@ Choose how you want to read this repository:
 - [Why this repository exists](#why-this-repository-exists)
 - [Start here](#start-here)
 - [Books index](#books-index)
+- [Discovery quick start](#discovery-quick-start)
 - [How to navigate](#how-to-navigate)
 - [How to use this repository](#how-to-use-this-repository)
 - [Repository structure](#repository-structure)
@@ -42,9 +43,9 @@ Choose how you want to read this repository:
 
 > This section shows **only the latest 3 updates** in the repository. It must be refreshed whenever content is added or updated in any book.
 
-- New chapter: [The Pragmatic Programmer - 07 While you are coding](books/the-pragmatic-programmer/chapters/EN/07-while-you-are-coding.md)
-- Book update: [The Pragmatic Programmer](books/the-pragmatic-programmer/README.md)
-- Chapter update: [The Pragmatic Programmer - 06 Concurrency](books/the-pragmatic-programmer/chapters/EN/06-concurrency.md)
+- New global concepts index: [Concepts index](docs/concepts-index.md)
+- New reading routes: [Reading paths](docs/reading-paths.md)
+- Book updates: [The Pragmatic Programmer](books/the-pragmatic-programmer/README.md) and [Software Engineering at Google](books/software-engineering-at-google/README.md)
 
 ## Why this repository exists
 
@@ -66,6 +67,11 @@ This repository exists to turn reading notes into a practical engineering handbo
 - If you want a fast read: open a book README and use quick navigation.
 - If you want concept depth: open a chapter and follow `Related notes` + `See also`.
 - If you want to add notes: use templates in `templates/` and write Spanish first.
+
+## Discovery quick start
+
+- Concepts index: [docs/concepts-index.md](docs/concepts-index.md) | [ES](docs/concepts-index.es.md)
+- Reading paths: [docs/reading-paths.md](docs/reading-paths.md) | [ES](docs/reading-paths.es.md)
 
 ## Books index
 
@@ -148,6 +154,11 @@ Each chapter includes top and bottom navigation, language switching, and cross-l
 │               ├── 05-doblar-o-romper.es.md
 │               ├── 06-concurrencia.es.md
 │               └── 07-mientras-escribe-codigo.es.md
+├── docs/
+│   ├── concepts-index.es.md
+│   ├── concepts-index.md
+│   ├── reading-paths.es.md
+│   └── reading-paths.md
 └── templates/
     ├── book-template.es.md
     ├── book-template.md

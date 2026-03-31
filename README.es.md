@@ -22,6 +22,7 @@ Elige cómo quieres leer este repositorio:
 - [Por qué existe este repositorio](#por-qué-existe-este-repositorio)
 - [Empezar aquí](#empezar-aquí)
 - [Índice de libros](#índice-de-libros)
+- [Descubrimiento rápido](#descubrimiento-rápido)
 - [Cómo navegar](#cómo-navegar)
 - [Cómo usar este repositorio](#cómo-usar-este-repositorio)
 - [Estructura del repositorio](#estructura-del-repositorio)
@@ -42,9 +43,9 @@ Elige cómo quieres leer este repositorio:
 
 > Esta sección muestra **solo las 3 últimas novedades** del repositorio. Debe actualizarse cada vez que se agregue o modifique contenido en cualquier libro.
 
-- Nuevo capítulo: [The Pragmatic Programmer - 07 Mientras escribe código](books/the-pragmatic-programmer/chapters/ES/07-mientras-escribe-codigo.es.md)
-- Actualización de libro: [The Pragmatic Programmer](books/the-pragmatic-programmer/README.es.md)
-- Actualización de capítulo: [The Pragmatic Programmer - 06 Concurrencia](books/the-pragmatic-programmer/chapters/ES/06-concurrencia.es.md)
+- Nuevo índice de conceptos: [Concepts index (ES)](docs/concepts-index.es.md)
+- Nuevas rutas de lectura: [Reading paths (ES)](docs/reading-paths.es.md)
+- Actualización de libros: [The Pragmatic Programmer](books/the-pragmatic-programmer/README.es.md) y [Software Engineering at Google](books/software-engineering-at-google/README.es.md)
 
 ## Por qué existe este repositorio
 
@@ -60,6 +61,17 @@ Este repositorio existe para convertir notas de lectura en un manual práctico d
 - El español es la fuente de verdad.
 - El inglés es una traducción limpia y profesional.
 - Cada archivo usa un solo idioma.
+
+## Empezar aquí
+
+- Si quieres lectura rápida: abre un README de libro y usa su navegación rápida.
+- Si quieres profundidad: entra a un capítulo y sigue `Notas relacionadas` + `Ver también`.
+- Si quieres exploración guiada por objetivos: usa [Rutas de lectura](docs/reading-paths.es.md).
+
+## Descubrimiento rápido
+
+- Índice por conceptos: [docs/concepts-index.es.md](docs/concepts-index.es.md) | [EN](docs/concepts-index.md)
+- Rutas de lectura: [docs/reading-paths.es.md](docs/reading-paths.es.md) | [EN](docs/reading-paths.md)
 
 ## Índice de libros
 
@@ -142,6 +154,11 @@ Cada capítulo incluye navegación superior e inferior, cambio de idioma y enlac
 │               ├── 05-doblar-o-romper.es.md
 │               ├── 06-concurrencia.es.md
 │               └── 07-mientras-escribe-codigo.es.md
+├── docs/
+│   ├── concepts-index.es.md
+│   ├── concepts-index.md
+│   ├── reading-paths.es.md
+│   └── reading-paths.md
 └── templates/
     ├── book-template.es.md
     ├── book-template.md

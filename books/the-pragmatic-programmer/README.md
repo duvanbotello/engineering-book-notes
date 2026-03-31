@@ -29,6 +29,7 @@ Choose how you want to read this book:
 - 📘 [Chapters](#chapters)
 - 🎯 [Key takeaways](#key-takeaways)
 - 🧪 [Practical applications](#practical-applications)
+- 🧭 [Explore by concepts and paths](#explore-by-concepts-and-paths)
 - 🔗 [Related books](#related-books)
 - 🌐 [Switch to Spanish](README.es.md)
 - ⬆️ [Back to repository index](../../README.md)
@@ -69,6 +70,11 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - [05 - Bend, or break](chapters/EN/05-bend-or-break.md) | [ES](chapters/ES/05-doblar-o-romper.es.md)
 - [06 - Concurrency](chapters/EN/06-concurrency.md) | [ES](chapters/ES/06-concurrencia.es.md)
 - [07 - While you are coding](chapters/EN/07-while-you-are-coding.md) | [ES](chapters/ES/07-mientras-escribe-codigo.es.md)
+
+## Explore by concepts and paths
+
+- Global concepts index: [docs/concepts-index.md](../../docs/concepts-index.md) | [ES](../../docs/concepts-index.es.md)
+- Suggested reading paths: [docs/reading-paths.md](../../docs/reading-paths.md) | [ES](../../docs/reading-paths.es.md)
 
 ## Key takeaways
 
