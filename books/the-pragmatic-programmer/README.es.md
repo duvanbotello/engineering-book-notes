@@ -29,6 +29,7 @@ Elige cómo quieres leer este libro:
 - 📘 [Capítulos](#capítulos)
 - 🎯 [Aprendizajes clave](#aprendizajes-clave)
 - 🧪 [Aplicaciones prácticas](#aplicaciones-prácticas)
+- 🎤 [Slides de tertulia](#slides-de-tertulia)
 - 🧭 [Explorar por conceptos y rutas](#explorar-por-conceptos-y-rutas)
 - 🔗 [Libros relacionados](#libros-relacionados)
 - 🌐 [Cambiar a inglés](README.md)
@@ -76,6 +77,11 @@ Estas notas aterrizan una idea simple pero exigente: programar bien no es solo e
 - [08 - Antes del proyecto](chapters/ES/08-antes-del-proyecto.es.md) | [EN](chapters/EN/08-before-the-project.md)
 - [09 - Proyectos pragmáticos](chapters/ES/09-proyectos-pragmaticos.es.md) | [EN](chapters/EN/09-pragmatic-projects.md)
 - [10 - Postfacio](chapters/ES/10-postfacio.es.md) | [EN](chapters/EN/10-postface.md)
+
+## Slides de tertulia
+
+- Presentación estática (capítulos 0, 1, 2 y 4): [slides/pragmatic-programmer/index.html](../../slides/pragmatic-programmer/index.html)
+- Guía de edición: [slides/pragmatic-programmer/README.es.md](../../slides/pragmatic-programmer/README.es.md) | [EN](../../slides/pragmatic-programmer/README.md)
 
 ## Explorar por conceptos y rutas
 

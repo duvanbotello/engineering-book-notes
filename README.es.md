@@ -23,6 +23,7 @@ Elige cómo quieres leer este repositorio:
 - [Empezar aquí](#empezar-aquí)
 - [Índice de libros](#índice-de-libros)
 - [Descubrimiento rápido](#descubrimiento-rápido)
+- [Presentaciones](#presentaciones)
 - [Cómo navegar](#cómo-navegar)
 - [Cómo usar este repositorio](#cómo-usar-este-repositorio)
 - [Estructura del repositorio](#estructura-del-repositorio)
@@ -43,9 +44,9 @@ Elige cómo quieres leer este repositorio:
 
 > Esta sección muestra **solo las 3 últimas novedades** del repositorio. Debe actualizarse cada vez que se agregue o modifique contenido en cualquier libro.
 
+- Nuevas slides: [The Pragmatic Programmer (cap. 0, 1, 2, 4)](slides/pragmatic-programmer/index.html)
 - Estado actualizado: [The Pragmatic Programmer ahora está completado](books/the-pragmatic-programmer/README.es.md)
 - Índice de conceptos actualizado con postfacio: [Concepts index (ES)](docs/concepts-index.es.md)
-- Rutas de lectura actualizadas con postfacio: [Reading paths (ES)](docs/reading-paths.es.md)
 
 ## Por qué existe este repositorio
 
@@ -72,6 +73,11 @@ Este repositorio existe para convertir notas de lectura en un manual práctico d
 
 - Índice por conceptos: [docs/concepts-index.es.md](docs/concepts-index.es.md) | [EN](docs/concepts-index.md)
 - Rutas de lectura: [docs/reading-paths.es.md](docs/reading-paths.es.md) | [EN](docs/reading-paths.md)
+
+## Presentaciones
+
+- The Pragmatic Programmer (0, 1, 2, 4): [Abrir slides](slides/pragmatic-programmer/index.html)
+- Guía de edición de slides: [README.es.md](slides/pragmatic-programmer/README.es.md) | [EN](slides/pragmatic-programmer/README.md)
 
 ## Índice de libros
 
@@ -168,6 +174,15 @@ Cada capítulo incluye navegación superior e inferior, cambio de idioma y enlac
 │   ├── concepts-index.md
 │   ├── reading-paths.es.md
 │   └── reading-paths.md
+├── slides/
+│   └── pragmatic-programmer/
+│       ├── index.html
+│       ├── README.es.md
+│       ├── README.md
+│       └── assets/
+│           ├── app.js
+│           ├── slides.js
+│           └── styles.css
 └── templates/
     ├── book-template.es.md
     ├── book-template.md

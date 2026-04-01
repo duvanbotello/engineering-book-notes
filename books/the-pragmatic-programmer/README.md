@@ -29,6 +29,7 @@ Choose how you want to read this book:
 - 📘 [Chapters](#chapters)
 - 🎯 [Key takeaways](#key-takeaways)
 - 🧪 [Practical applications](#practical-applications)
+- 🎤 [Talk slides](#talk-slides)
 - 🧭 [Explore by concepts and paths](#explore-by-concepts-and-paths)
 - 🔗 [Related books](#related-books)
 - 🌐 [Switch to Spanish](README.es.md)
@@ -76,6 +77,11 @@ These notes ground a simple but demanding idea: writing software well is not onl
 - [08 - Before the project](chapters/EN/08-before-the-project.md) | [ES](chapters/ES/08-antes-del-proyecto.es.md)
 - [09 - Pragmatic projects](chapters/EN/09-pragmatic-projects.md) | [ES](chapters/ES/09-proyectos-pragmaticos.es.md)
 - [10 - Postface](chapters/EN/10-postface.md) | [ES](chapters/ES/10-postfacio.es.md)
+
+## Talk slides
+
+- Static presentation (chapters 0, 1, 2, and 4): [slides/pragmatic-programmer/index.html](../../slides/pragmatic-programmer/index.html)
+- Editing guide: [slides/pragmatic-programmer/README.md](../../slides/pragmatic-programmer/README.md) | [ES](../../slides/pragmatic-programmer/README.es.md)
 
 ## Explore by concepts and paths
 

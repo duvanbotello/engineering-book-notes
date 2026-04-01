@@ -42,6 +42,18 @@ templates/
   book-template.es.md
   chapter-template.md
   chapter-template.es.md
+
+slides/
+  <book-name>/
+    index.html
+    index.en.html
+    README.es.md
+    README.md
+    assets/
+      app.js
+      slides.js
+      slides.en.js
+      styles.css
 ```
 
 ### Template Paths and Usage
@@ -62,6 +74,31 @@ Use templates from `/templates/` exactly as follows:
 * Each chapter must be inside `/chapters/`
 * Chapter language files must be separated by folder: `/chapters/EN/` and `/chapters/ES/`
 * Chapter files must be numerically ordered (`01-`, `02-`, etc.)
+* Slide decks must be stored under `/slides/<book-name>/`
+
+---
+
+## Slides Route Rules (MANDATORY)
+
+When adding new chapters to an existing slide route:
+
+* Keep the same narrative structure and visual language already used in the deck
+* Update both languages in the same cycle:
+
+  * Spanish content in `slides.js`
+  * English content in `slides.en.js`
+* Preserve sequence coherence (opening -> chapter flow -> closing), avoid random standalone slides
+* Maintain the timeline behavior:
+
+  * New slide appears in the route automatically
+  * Active step keeps centered/scrolling behavior
+* Keep interaction moments consistent (Mentimeter/question slides) and place them intentionally between chapter blocks
+* Keep slide density readable: short bullets, clear narrative, and one core message per slide
+* Reuse existing style tokens/components from `styles.css`; do not introduce disconnected visual themes
+* If a chapter is added to the talk route, update links/guides in:
+
+  * `README.es.md` and `README.md`
+  * Related book README files in both languages
 
 ---
 
