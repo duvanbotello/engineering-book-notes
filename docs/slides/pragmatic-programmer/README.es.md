@@ -1,4 +1,4 @@
-[← Volver al libro](../../books/the-pragmatic-programmer/README.es.md) | [↑ Volver al índice](../../README.es.md) | [🌐 Cambiar idioma](README.md)
+[← Volver al libro](../../../books/the-pragmatic-programmer/README.es.md) | [↑ Volver al índice](../../../README.es.md) | [🌐 Cambiar idioma](README.md)
 
 # Slides - The Pragmatic Programmer (ES)
 
@@ -12,4 +12,4 @@
 python -m http.server 8000
 ```
 
-Abrir: `http://localhost:8000/slides/pragmatic-programmer/`
+Abrir: `http://localhost:8000/docs/slides/pragmatic-programmer/`

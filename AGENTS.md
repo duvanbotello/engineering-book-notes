@@ -43,17 +43,18 @@ templates/
   chapter-template.md
   chapter-template.es.md
 
-slides/
-  <book-name>/
-    index.html
-    index.en.html
-    README.es.md
-    README.md
-    assets/
-      app.js
-      slides.js
-      slides.en.js
-      styles.css
+docs/
+  slides/
+    <book-name>/
+      index.html
+      index.en.html
+      README.es.md
+      README.md
+      assets/
+        app.js
+        slides.js
+        slides.en.js
+        styles.css
 ```
 
 ### Template Paths and Usage
@@ -74,7 +75,7 @@ Use templates from `/templates/` exactly as follows:
 * Each chapter must be inside `/chapters/`
 * Chapter language files must be separated by folder: `/chapters/EN/` and `/chapters/ES/`
 * Chapter files must be numerically ordered (`01-`, `02-`, etc.)
-* Slide decks must be stored under `/slides/<book-name>/`
+* Slide decks must be stored under `/docs/slides/<book-name>/`
 
 ---
 

@@ -44,7 +44,7 @@ Choose how you want to read this repository:
 
 > This section shows **only the latest 3 updates** in the repository. It must be refreshed whenever content is added or updated in any book.
 
-- New slides: [The Pragmatic Programmer (ch. 0, 1, 2, 4)](slides/pragmatic-programmer/index.html)
+- New slides: [The Pragmatic Programmer (ch. 0, 1, 2, 4)](docs/slides/pragmatic-programmer/index.html)
 - Status updated: [The Pragmatic Programmer is now completed](books/the-pragmatic-programmer/README.md)
 - Concepts index updated with postface: [Concepts index](docs/concepts-index.md)
 
@@ -76,8 +76,8 @@ This repository exists to turn reading notes into a practical engineering handbo
 
 ## Presentations
 
-- The Pragmatic Programmer (0, 1, 2, 4): [Open slides](slides/pragmatic-programmer/index.html)
-- Slide editing guide: [README.md](slides/pragmatic-programmer/README.md) | [ES](slides/pragmatic-programmer/README.es.md)
+- The Pragmatic Programmer (0, 1, 2, 4): [Open slides](docs/slides/pragmatic-programmer/index.html)
+- Slide editing guide: [README.md](docs/slides/pragmatic-programmer/README.md) | [ES](docs/slides/pragmatic-programmer/README.es.md)
 
 ## Books index
 
@@ -174,15 +174,15 @@ Each chapter includes top and bottom navigation, language switching, and cross-l
 │   ├── concepts-index.md
 │   ├── reading-paths.es.md
 │   └── reading-paths.md
-├── slides/
-│   └── pragmatic-programmer/
-│       ├── index.html
-│       ├── README.es.md
-│       ├── README.md
-│       └── assets/
-│           ├── app.js
-│           ├── slides.js
-│           └── styles.css
+│   └── slides/
+│       └── pragmatic-programmer/
+│           ├── index.html
+│           ├── README.es.md
+│           ├── README.md
+│           └── assets/
+│               ├── app.js
+│               ├── slides.js
+│               └── styles.css
 └── templates/
     ├── book-template.es.md
     ├── book-template.md

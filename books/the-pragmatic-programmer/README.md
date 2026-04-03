@@ -80,8 +80,8 @@ These notes ground a simple but demanding idea: writing software well is not onl
 
 ## Talk slides
 
-- Static presentation (chapters 0, 1, 2, and 4): [slides/pragmatic-programmer/index.html](../../slides/pragmatic-programmer/index.html)
-- Editing guide: [slides/pragmatic-programmer/README.md](../../slides/pragmatic-programmer/README.md) | [ES](../../slides/pragmatic-programmer/README.es.md)
+- Static presentation (chapters 0, 1, 2, and 4): [slides/pragmatic-programmer/index.html](../../docs/slides/pragmatic-programmer/index.html)
+- Editing guide: [slides/pragmatic-programmer/README.md](../../docs/slides/pragmatic-programmer/README.md) | [ES](../../docs/slides/pragmatic-programmer/README.es.md)
 
 ## Explore by concepts and paths
 
