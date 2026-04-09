@@ -9,9 +9,33 @@
   const slides = window.PRAGMATIC_SLIDES || [];
 
   let index = 0;
+  let previousIndex = -1;
   let revealIndex = 0;
   let revealables = [];
   const INITIAL_REVEAL = 3;
+
+  const labels = {
+    fullscreen: document.documentElement.lang === "en" ? "Fullscreen" : "Pantalla completa",
+    exitFullscreen: document.documentElement.lang === "en" ? "Exit fullscreen" : "Salir de pantalla"
+  };
+
+  let idleTimer = null;
+  const resetIdleState = () => {
+    if (!document.fullscreenElement) {
+      document.body.classList.remove("presentation-idle");
+      return;
+    }
+    document.body.classList.remove("presentation-idle");
+    if (idleTimer) window.clearTimeout(idleTimer);
+    idleTimer = window.setTimeout(() => {
+      document.body.classList.add("presentation-idle");
+    }, 2600);
+  };
+
+  const updateFullscreenLabel = () => {
+    if (!fullscreen) return;
+    fullscreen.textContent = document.fullscreenElement ? labels.exitFullscreen : labels.fullscreen;
+  };
 
   const renderAgenda = () => {
     if (!agenda) return;
@@ -191,7 +215,7 @@
       el.classList.toggle("is-visible", i < revealIndex);
     });
 
-    if (counter) counter.textContent = `${index + 1} / ${slides.length}`;
+    if (counter) counter.textContent = `${index + 1} / ${slides.length} · ${slide.chapter}`;
     if (progress) progress.style.width = `${((index + 1) / slides.length) * 100}%`;
     if (agenda) {
       const pathProgress = slides.length > 1 ? (index / (slides.length - 1)) * 100 : 100;
@@ -208,6 +232,13 @@
       item.classList.toggle("active", isActive);
       if (isActive) activeItem = item;
     });
+
+    if (activeItem && previousIndex !== index) {
+      activeItem.classList.remove("active-pulse");
+      void activeItem.offsetWidth;
+      activeItem.classList.add("active-pulse");
+    }
+    previousIndex = index;
 
     activeItem?.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
   };
@@ -244,13 +275,26 @@
   next?.addEventListener("click", () => revealStep(1));
 
   fullscreen?.addEventListener("click", async () => {
-    if (!document.fullscreenElement) {
-      await document.documentElement.requestFullscreen();
-      fullscreen.textContent = "Salir de pantalla";
-    } else {
-      await document.exitFullscreen();
-      fullscreen.textContent = "Pantalla completa";
+    try {
+      if (!document.fullscreenElement) {
+        await document.documentElement.requestFullscreen();
+      } else {
+        await document.exitFullscreen();
+      }
+      updateFullscreenLabel();
+      resetIdleState();
+    } catch {
+      updateFullscreenLabel();
     }
+  });
+
+  document.addEventListener("fullscreenchange", () => {
+    updateFullscreenLabel();
+    resetIdleState();
+  });
+
+  ["mousemove", "pointerdown", "keydown", "touchstart"].forEach((eventName) => {
+    window.addEventListener(eventName, resetIdleState, { passive: true });
   });
 
   window.addEventListener("keydown", (event) => {
@@ -267,5 +311,6 @@
   });
 
   renderAgenda();
+  updateFullscreenLabel();
   render();
 })();
