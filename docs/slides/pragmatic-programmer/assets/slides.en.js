@@ -106,7 +106,7 @@ window.PRAGMATIC_SLIDES = [
   {
     chapter: "Interaction",
     subtitle: "After chapter 1",
-    title: "Which 'broken window' are we normalizing today, and what cost is it generating?",
+    title: "What carries more weight in your team today when making decisions?",
     narrative: "menti.com | Code: 8490 4552",
     bullets: [],
     takeaway: "",
@@ -156,7 +156,20 @@ window.PRAGMATIC_SLIDES = [
     takeaway: "Robustness does not appear by itself; it is designed with validation and discipline.",
     visualTitle: "Lessons learned",
     visualItems: ["Breaking work into small steps improves learning, feedback, and continuous adjustment."],
-    theme: "paranoia"
+    theme: "paranoia",
+    compact: true
+  },
+  {
+    chapter: "Interaction",
+    subtitle: "Before closing",
+    title: "Which 'broken window' are we normalizing today in our team?",
+    narrative: "menti.com | Code: 8490 4552",
+    bullets: [],
+    takeaway: "",
+    visualTitle: "",
+    visualItems: [],
+    theme: "closing",
+    mode: "question"
   },
   {
     chapter: "Closing",

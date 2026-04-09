@@ -108,7 +108,7 @@ window.PRAGMATIC_SLIDES = [
   {
     chapter: "Interaccion",
     subtitle: "Despues del capitulo 1",
-    title: "¿Que 'ventana rota' estamos normalizando hoy en nuestro equipo y que costo nos esta generando?",
+    title: "¿Qué pesa más hoy en tu equipo al decidir?",
     narrative: "menti.com | Codigo: 8490 4552",
     bullets: [],
     takeaway: "",
@@ -168,6 +168,18 @@ window.PRAGMATIC_SLIDES = [
     visualItems: ["Dividir trabajo en pasos pequeños mejora aprendizaje, feedback y ajuste continuo."],
     theme: "paranoia",
     compact: true
+  },
+  {
+    chapter: "Interaccion",
+    subtitle: "Antes del cierre",
+    title: "¿Que 'ventana rota' estamos normalizando hoy en nuestro equipo?",
+    narrative: "menti.com | Codigo: 8490 4552",
+    bullets: [],
+    takeaway: "",
+    visualTitle: "",
+    visualItems: [],
+    theme: "closing",
+    mode: "question"
   },
   {
     chapter: "Cierre",
