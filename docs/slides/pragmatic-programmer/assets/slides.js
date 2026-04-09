@@ -59,7 +59,7 @@ window.PRAGMATIC_SLIDES = [
       "No tiene sentido desarrollar software si no hay compromiso real con hacerlo bien. El punto de partida no es la tecnologia, sino la actitud profesional frente a la calidad.",
     bullets: [
       "El criterio de calidad se define antes de la velocidad.",
-      "Las decisiones pequenas de hoy se convierten en deuda o en solidez manana.",
+      "Las decisiones pequeñas de hoy se convierten en deuda o en solidez mañana.",
       "Si no acordamos estandar, cada entrega abre una discusion nueva."
     ],
     questions: [
@@ -93,13 +93,13 @@ window.PRAGMATIC_SLIDES = [
       "¿Que 'ventanas rotas' estoy tolerando hoy por comodidad?",
       "¿Se adaptar mi mensaje al publico que lo necesita?"
     ],
-    actions: ["Corregir una 'ventana rota' pequena en el repo."],
+    actions: ["Corregir una 'ventana rota' pequeña en el repo."],
     takeaway:
       "La responsabilidad acelera decisiones, reduce discusiones defensivas y mejora la calidad del equipo.",
     visualTitle: "Lecciones aprendidas",
     visualItems: [
       "Admitir 'no se' abre aprendizaje y evita errores por orgullo",
-      "Cuidar el diseno temprano evita que el desorden se vuelva cultura",
+      "Cuidar el diseño temprano evita que el desorden se vuelva cultura",
       "Aprender poco y constante rinde mas que aprender mucho una vez",
       "Comunicar sin contexto puede arruinar una buena idea tecnica"
     ],
@@ -131,7 +131,7 @@ window.PRAGMATIC_SLIDES = [
       "Evitar respuestas improvisadas; tomar tiempo para pensar y responder con mas contexto."
     ],
     questions: [
-      "¿Que partes de mi sistema cambian juntas por diseno deficiente y no por necesidad real?"
+      "¿Que partes de mi sistema cambian juntas por diseño deficiente y no por necesidad real?"
     ],
     actions: [
       "Revisar un modulo actual e identificar acoplamientos innecesarios entre componentes."
@@ -148,13 +148,13 @@ window.PRAGMATIC_SLIDES = [
   {
     chapter: "Capitulo 4",
     subtitle: "Paranoia pragmatica",
-    title: "No podemos escribir software perfecto, asi que debemos disenar defensas contra nuestros propios errores.",
+    title: "No podemos escribir software perfecto, asi que debemos diseñar defensas contra nuestros propios errores.",
     narrative:
-      "La paranoia pragmatica propone validar supuestos, definir contratos claros y detener la ejecucion cuando aparece algo imposible, porque un sistema corrupto hace mas dano que un sistema que falla rapido.",
+      "La paranoia pragmatica propone validar supuestos, definir contratos claros y detener la ejecucion cuando aparece algo imposible, porque un sistema corrupto hace mas daño que un sistema que falla rapido.",
     bullets: [
       "No confiar ciegamente ni en uno mismo: incluso un buen criterio tecnico comete errores.",
       "Programacion asertiva: cada vez que pensemos 'eso nunca podria ocurrir', agregar una verificacion explicita.",
-      "Pasos pequenos con feedback: avanzar por incrementos reduce riesgo y permite ajustar antes de escalar.",
+      "Pasos pequeños con feedback: avanzar por incrementos reduce riesgo y permite ajustar antes de escalar.",
       "Asumir que habra eventos inesperados y preparar sistemas resilientes."
     ],
     questions: [
@@ -163,9 +163,9 @@ window.PRAGMATIC_SLIDES = [
     actions: [
       "Dividir una tarea grande actual en incrementos con revision y feedback en cada paso."
     ],
-    takeaway: "La robustez no aparece sola; se disena con validacion y disciplina.",
+    takeaway: "La robustez no aparece sola; se diseña con validacion y disciplina.",
     visualTitle: "Lecciones aprendidas",
-    visualItems: ["Dividir trabajo en pasos pequenos mejora aprendizaje, feedback y ajuste continuo."],
+    visualItems: ["Dividir trabajo en pasos pequeños mejora aprendizaje, feedback y ajuste continuo."],
     theme: "paranoia"
   },
   {
