@@ -119,6 +119,12 @@
     takeaway.className = "takeaway";
     takeaway.textContent = slide.takeaway;
 
+    if (slide.mode === "question") {
+      takeaway.textContent = "";
+      narrative.dataset.cta =
+        document.documentElement.lang === "en" ? "Join now" : "Participa ahora";
+    }
+
     const hasVisual =
       Boolean((slide.visualTitle || "").trim()) ||
       (Array.isArray(slide.visualItems) && slide.visualItems.length > 0);
@@ -156,9 +162,10 @@
 
     const content = document.createElement("section");
     content.className = "content";
-    content.append(chapter, subtitle, title, narrative, list);
+    content.append(chapter, subtitle, title, narrative);
+    if (bulletNodes.length > 0) content.append(list);
     if (qaGrid) content.appendChild(qaGrid);
-    content.append(takeaway);
+    if (String(slide.takeaway || "").trim()) content.append(takeaway);
 
     const kicker = document.createElement("p");
     kicker.className = "kicker";
@@ -174,7 +181,7 @@
 
     revealables = [chapter, subtitle, title, narrative, ...bulletNodes];
     if (qaGrid) revealables.push(qaGrid);
-    revealables.push(takeaway);
+    if (String(slide.takeaway || "").trim()) revealables.push(takeaway);
     if (visual) revealables.push(visual);
     revealables.push(kicker);
 
